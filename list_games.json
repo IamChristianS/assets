@@ -1,7 +1,6 @@
 [
   {
     "gameIndex": "games/tetris/index.html",
-    "gameImg": "tetris",
     "gameName": "Tetris"
   }
 ]
