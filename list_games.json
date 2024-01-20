@@ -1,6 +1,14 @@
 [
-  {
-    "gameIndex": "games/tetris/index.html",
-    "gameName": "Tetris"
-  }
+    {
+        "gameIndex": "games/tetris/index.html",
+        "gameName": "Tetris"
+    },
+    {
+        "gameIndex": "games/worldshardestgame/index.html",
+        "gameName": "World's Hardest Games"
+    },
+    {
+        "gameIndex": "games/2048/index.html",
+        "gameName": "2048"
+    }
 ]
