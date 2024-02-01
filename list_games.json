@@ -1,5 +1,13 @@
 [
     {
+        "gameIndex": "games/cookieclicker/index.html",
+        "gameName": "Cookie Clicker"
+    },
+    {
+        "gameIndex": "games/gamename/index.html",
+        "gameName": "Name"
+    },
+    {
         "gameIndex": "games/tetris/index.html",
         "gameName": "Tetris"
     },
