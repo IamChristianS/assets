@@ -1923,6 +1923,7 @@ Game.Launch=function()
 		else Game.Loader.loaded=callback;
 		Game.Loader.Load(['filler.png']);
 	}
+	/* Yeah, we're just gonna remove this
 	Game.ErrorFrame=function()
 	{
 		l('offGameMessage').innerHTML=
@@ -1931,6 +1932,7 @@ Game.Launch=function()
 		'You can <a href="//orteil.dashnet.org/cookieclicker/" target="_blank">play Cookie Clicker over here</a>!<br>'+
 		'<small>(If for any reason, you are unable to access the game on the official URL, we are currently working on a second domain.)</small></div>';
 	}
+	*/
 	Game.timedout=false;
 	Game.Timeout=function()
 	{
@@ -16879,8 +16881,7 @@ window.onload=function()
 							//catch(err) {console.log('ERROR : '+err.message);}
 						}
 					}
-					if (App && App.loadMods) App.loadMods(launch);
-					else launch();
+					launch();
 				});
 			}}(lang));
 		}
