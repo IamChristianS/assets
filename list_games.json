@@ -12,6 +12,26 @@
         "gameName": "World's Hardest Game"
     },
     {
+        "gameIndex": "games/breakingthebank/index.html",
+        "gameName": "Breaking the Bank"
+    },
+    {
+        "gameIndex": "games/escapingtheprison/index.html",
+        "gameName": "Escaping the Prison"
+    },
+    {
+        "gameIndex": "games/fleeingthecomplex/index.html",
+        "gameName": "Fleeing the Complex"
+    },
+    {
+        "gameIndex": "games/infiltratingtheairship/index.html",
+        "gameName": "Infiltrating the Airship"
+    },
+    {
+        "gameIndex": "games/stealingthediamond/index.html",
+        "gameName": "Stealing the Diamond"
+    },
+    {
         "gameIndex": "games/2048/index.html",
         "gameName": "2048"
     }
