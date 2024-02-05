@@ -12,6 +12,30 @@
         "gameName": "World's Hardest Game"
     },
     {
+        "gameIndex": "games/fnaf1/index.html",
+        "gameName": "FNAF 1"
+    },
+    {
+        "gameIndex": "games/fnaf4/index.html",
+        "gameName": "FNAF 4"
+    },
+    {
+        "gameIndex": "games/stack/index.html",
+        "gameName": "Stack"
+    },
+    {
+        "gameIndex": "games/stickmanhook/index.html",
+        "gameName": "Stickman Hook"
+    },
+    {
+        "gameIndex": "games/wordle/index.html",
+        "gameName": "Wordle"
+    },
+    {
+        "gameIndex": "games/2048/index.html",
+        "gameName": "2048"
+    },
+    {
         "gameIndex": "games/breakingthebank/index.html",
         "gameName": "Breaking the Bank"
     },
@@ -30,9 +54,5 @@
     {
         "gameIndex": "games/stealingthediamond/index.html",
         "gameName": "Stealing the Diamond"
-    },
-    {
-        "gameIndex": "games/2048/index.html",
-        "gameName": "2048"
     }
 ]
