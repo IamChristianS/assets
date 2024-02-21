@@ -28,6 +28,38 @@
         "gameName": "Wordle"
     },
     {
+        "gameIndex": "games/animatorvsanimation/index.html",
+        "gameName": "Animator Vs Animation"
+    },
+    {
+        "gameIndex": "games/bloxorz/index.html",
+        "gameName": "Bloxorz"
+    },
+    {
+        "gameIndex": "games/craftmine/index.html",
+        "gameName": "Craftmine"
+    },
+    {
+        "gameIndex": "games/crossyroad/index.html",
+        "gameName": "Crossy Road"
+    },
+    {
+        "gameIndex": "games/cuttherope/index.html",
+        "gameName": "Cut the Rope"
+    },
+    {
+        "gameIndex": "games/cuttheropeholidaygift/index.html",
+        "gameName": "Cut the Rope: Holiday Gift"
+    },
+    {
+        "gameIndex": "games/cuttheropetimetravel/index.html",
+        "gameName": "Cut the Rope: Time Travel"
+    },
+    {
+        "gameIndex": "games/bitlife/index.html",
+        "gameName": "BitLife"
+    },
+    {
         "gameIndex": "games/2048/index.html",
         "gameName": "2048"
     },
