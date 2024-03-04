@@ -36,10 +36,6 @@
         "gameName": "Bloxorz"
     },
     {
-        "gameIndex": "games/craftmine/index.html",
-        "gameName": "Craftmine"
-    },
-    {
         "gameIndex": "games/crossyroad/index.html",
         "gameName": "Crossy Road"
     },
@@ -62,6 +58,158 @@
     {
         "gameIndex": "games/2048/index.html",
         "gameName": "2048"
+    },
+    {
+        "gameIndex": "games/1v1lol/index.html",
+        "gameName": "1v1.lol"
+    },
+    {
+        "gameIndex": "games/bloonstd5/index.html",
+        "gameName": "Bloons TD 5"
+    },
+    {
+        "gameIndex": "games/craftmine/index.html",
+        "gameName": "Craftmine"
+    },
+    {
+        "gameIndex": "games/douchebaglife/index.html",
+        "gameName": "Douchebag Life"
+    },
+    {
+        "gameIndex": "games/douchebagworkout2/index.html",
+        "gameName": "Douchebag Workout 2"
+    },
+    {
+        "gameIndex": "games/drawthehill/index.html",
+        "gameName": "Draw the Hill"
+    },
+    {
+        "gameIndex": "games/fnaf1/index.html",
+        "gameName": "FNAF 1"
+    },
+    {
+        "gameIndex": "games/fridaynightfunkin/index.html",
+        "gameName": "Friday Night Funkin'"
+    },
+    {
+        "gameIndex": "games/fruitninja/index.html",
+        "gameName": "Fruit Ninja"
+    },
+    {
+        "gameIndex": "games/googledino/index.html",
+        "gameName": "Google Dino"
+    },
+    {
+        "gameIndex": "games/happywheels/index.html",
+        "gameName": "Happy Wheels"
+    },
+    {
+        "gameIndex": "games/theimpossiblequiz/index.html",
+        "gameName": "The Impossible Quiz"
+    },
+    {
+        "gameIndex": "games/jetpackjoyride/index.html",
+        "gameName": "Jetpack Joyride"
+    },
+    {
+        "gameIndex": "games/learntofly2/index.html",
+        "gameName": "Learn to Fly 2"
+    },
+    {
+        "gameIndex": "games/learntofly1/index.html",
+        "gameName": "Learn to Fly 1"
+    },
+    {
+        "gameIndex": "games/minecraft/index.html",
+        "gameName": "Minecraft: Classic"
+    },
+    {
+        "gameIndex": "games/motox3m/index.html",
+        "gameName": "MotoX3M"
+    },
+    {
+        "gameIndex": "games/motox3m2/index.html",
+        "gameName": "MotoX3M 2"
+    },
+    {
+        "gameIndex": "games/papasburgeria/index.html",
+        "gameName": "Papa's Burgeria"
+    },
+    {
+        "gameIndex": "games/papasfreezeria/index.html",
+        "gameName": "Papa's Freezeria"
+    },
+    {
+        "gameIndex": "games/papaspancakeria/index.html",
+        "gameName": "Papa's Pancakeria"
+    },
+    {
+        "gameIndex": "games/papaspastaria/index.html",
+        "gameName": "Papa's Pastaria"
+    },
+    {
+        "gameIndex": "games/papaspizzaria/index.html",
+        "gameName": "Papa's Pizzaria"
+    },
+    {
+        "gameIndex": "games/papassushiria/index.html",
+        "gameName": "Papa's Sushiria"
+    },
+    {
+        "gameIndex": "games/paperio2/index.html",
+        "gameName": "Paper.io 2"
+    },
+    {
+        "gameIndex": "games/paperyplanes/index.html",
+        "gameName": "Papery Planes"
+    },
+    {
+        "gameIndex": "games/portalflash/index.html",
+        "gameName": "Portal: Flash"
+    },
+    {
+        "gameIndex": "games/resentclient/index.html",
+        "gameName": "Resent Client"
+    },
+    {
+        "gameIndex": "games/retrobowl/index.html",
+        "gameName": "Retro Bowl"
+    },
+    {
+        "gameIndex": "games/rocketsoccer/index.html",
+        "gameName": "Rocket Soccer"
+    },
+    {
+        "gameIndex": "games/slope/index.html",
+        "gameName": "Slope"
+    },
+    {
+        "gameIndex": "games/solitaire/index.html",
+        "gameName": "Solitaire"
+    },
+    {
+        "gameIndex": "games/subwaysurferssanfrancisco/index.html",
+        "gameName": "Subway Surfers: San Francisco"
+    },
+    {
+        "gameIndex": "games/subwaysurferszurich/index.html",
+        "gameName": "Subway Surfers: Zurich"
+    },
+    {
+        "gameIndex": "games/superhot/index.html",
+        "gameName": "Superhot"
+    },
+    {
+        "gameIndex": "games/templerun2/index.html",
+        "gameName": "Temple Run 2"
+    },
+    {
+        "gameIndex": "games/thebindingofisaac/index.html",
+        "gameName": "The Binding of Isaac"
+    },
+    {
+        "gameIndex": "games/transcube/index.html",
+        "gameName": "Transcube"
     },
     {
         "gameIndex": "games/breakingthebank/index.html",
