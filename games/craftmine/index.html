@@ -1,66 +1,82 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>CraftMine</title>
-        <style type="text/css">
-            * { padding: 0; margin: 0; }
-            html, body {
-                background: #000;
-                color: #fff;
-                overflow: hidden;
-                touch-action: none;
-                -ms-touch-action: none;
-            }
-            canvas {
-                touch-action-delay: none;
-                touch-action: none;
-                -ms-touch-action: none;
-            }
-        </style>
-    </head>
-    <body>
-        <div id="c2canvasdiv">
-            <canvas id="c2canvas" width="1280" height="720">
-                <h1>Your browser does not appear to support HTML5. Try upgrading your browser to the latest version.</h1>
-            </canvas>
-        </div>
-        <script src="jquery-3.4.1.min.js"></script>
-        <script src="ga_init.js"></script>
-        <script src="Photon-Javascript_SDK.min.js"></script>
-        <script src="c2runtime.js"></script>
-        <script>
-            jQuery(document).ready(function () {
-                cr_createRuntime("c2canvas");
-            });
+	<head>
+		<!-- Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-F9EPE334ZB"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag() {
+				dataLayer.push(arguments);
+			}
+			gtag('js', new Date());
 
-            function onVisibilityChanged() {
-                if (document.hidden || document.mozHidden || document.webkitHidden || document.msHidden) cr_setSuspended(true);
-                else cr_setSuspended(false);
-            }
+			gtag('config', 'G-F9EPE334ZB');
+		</script>
+		<!-- Google Analytics -->
+		<title>CraftMine</title>
+		<style type="text/css">
+			* {
+				padding: 0;
+				margin: 0;
+			}
+			html,
+			body {
+				background: #000;
+				color: #fff;
+				overflow: hidden;
+				touch-action: none;
+				-ms-touch-action: none;
+			}
+			canvas {
+				touch-action-delay: none;
+				touch-action: none;
+				-ms-touch-action: none;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="c2canvasdiv">
+			<canvas id="c2canvas" width="1280" height="720">
+				<h1>Your browser does not appear to support HTML5. Try upgrading your browser to the latest version.</h1>
+			</canvas>
+		</div>
+		<script src="jquery-3.4.1.min.js"></script>
+		<script src="ga_init.js"></script>
+		<script src="Photon-Javascript_SDK.min.js"></script>
+		<script src="c2runtime.js"></script>
+		<script>
+			jQuery(document).ready(function () {
+				cr_createRuntime('c2canvas');
+			});
 
-            document.addEventListener("visibilitychange", onVisibilityChanged, false);
-            document.addEventListener("mozvisibilitychange", onVisibilityChanged, false);
-            document.addEventListener("webkitvisibilitychange", onVisibilityChanged, false);
-            document.addEventListener("msvisibilitychange", onVisibilityChanged, false);
+			function onVisibilityChanged() {
+				if (document.hidden || document.mozHidden || document.webkitHidden || document.msHidden) cr_setSuspended(true);
+				else cr_setSuspended(false);
+			}
 
-            function OnRegisterSWError(e) {
-                console.warn("Failed to register service worker: ", e);
-            }
+			document.addEventListener('visibilitychange', onVisibilityChanged, false);
+			document.addEventListener('mozvisibilitychange', onVisibilityChanged, false);
+			document.addEventListener('webkitvisibilitychange', onVisibilityChanged, false);
+			document.addEventListener('msvisibilitychange', onVisibilityChanged, false);
 
-            window.C2_RegisterSW = function C2_RegisterSW() {
-                if (!navigator.serviceWorker) return;
+			function OnRegisterSWError(e) {
+				console.warn('Failed to register service worker: ', e);
+			}
 
-                try {
-                    navigator.serviceWorker
-                        .register("sw.js", { scope: "./" })
-                        .then(function (reg) {
-                            console.log("Registered service worker on " + reg.scope);
-                        })
-                        .catch(OnRegisterSWError);
-                } catch (e) {
-                    OnRegisterSWError(e);
-                }
-            };
-        </script>
-    </body>
+			window.C2_RegisterSW = function C2_RegisterSW() {
+				if (!navigator.serviceWorker) return;
+
+				try {
+					navigator.serviceWorker
+						.register('sw.js', { scope: './' })
+						.then(function (reg) {
+							console.log('Registered service worker on ' + reg.scope);
+						})
+						.catch(OnRegisterSWError);
+				} catch (e) {
+					OnRegisterSWError(e);
+				}
+			};
+		</script>
+	</body>
 </html>

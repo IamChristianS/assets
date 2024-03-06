@@ -1,33 +1,46 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Blockpost</title>
-	<script>
-	window.config = {
-		loader: 'unity',
-		debug: false,
-		maxRatio: 16 / 9,
-		minRatio: 9 / 16,
+	<head>
+		<!-- Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-F9EPE334ZB"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag() {
+				dataLayer.push(arguments);
+			}
+			gtag('js', new Date());
 
-		title: 'Blockpost',
-		thumbnail: 'thumb.png',
-		numScreenshots: 4,
+			gtag('config', 'G-F9EPE334ZB');
+		</script>
+		<!-- Google Analytics -->
+		<meta charset="utf-8" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Blockpost</title>
+		<script>
+			window.config = {
+				loader: 'unity',
+				debug: false,
+				maxRatio: 16 / 9,
+				minRatio: 9 / 16,
 
-		unityVersion: '2018.4.32f1',
-		unityWebglBuildUrl: 'Build/webgl_poki.json',
+				title: 'Blockpost',
+				thumbnail: 'thumb.png',
+				numScreenshots: 4,
 
-		fileSize: 22,
-		cachedDecompressedFileSizes: {
-			'webgl_poki.data.unityweb':  12379304 ,
-			'webgl_poki.wasm.code.unityweb':  9776558 ,
-			'webgl_poki.wasm.framework.unityweb':  100499 ,
-		},
-	};
-	</script>
-<script type="text/javascript" src="scr.js"></script></head>
-<body>
-	<script src="master-loader.js"></script>
-    </body>
+				unityVersion: '2018.4.32f1',
+				unityWebglBuildUrl: 'Build/webgl_poki.json',
+
+				fileSize: 22,
+				cachedDecompressedFileSizes: {
+					'webgl_poki.data.unityweb': 12379304,
+					'webgl_poki.wasm.code.unityweb': 9776558,
+					'webgl_poki.wasm.framework.unityweb': 100499,
+				},
+			};
+		</script>
+		<script type="text/javascript" src="scr.js"></script>
+	</head>
+	<body>
+		<script src="master-loader.js"></script>
+	</body>
 </html>
