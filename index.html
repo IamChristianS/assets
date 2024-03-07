@@ -28,7 +28,7 @@
 						link.innerHTML = `${game.gameName}`;
 						link.href = '${cdn}${game.gameIndex}';
 
-						document.getElementById('links').appendChild(tab);
+						document.getElementById('links').appendChild(link);
 					}
 				} catch (error) {
 					console.error('LINKS ERROR:' + error);
@@ -36,7 +36,7 @@
 			}
 		</script>
 	</head>
-	<body onload="addGames()">
+	<body onload="addGames();">
 		<div id="links"></div>
 	</body>
 </html>
