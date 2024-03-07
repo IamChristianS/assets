@@ -13,6 +13,30 @@
 			gtag('config', 'G-F9EPE334ZB');
 		</script>
 		<!-- Google Analytics -->
+		<meta charset="UTF-8" />
+		<meta name="language" content="en" />
+		<meta name="robots" content="index, follow" />
+		<script>
+			async function addGames() {
+				try {
+					const cdn = 'https://iamchristians.github.io/assets/';
+					const games = await (await fetch(cdn + 'list_games.json')).json();
+					games.sort((a, b) => a.gameName.localeCompare(b.gameName));
+
+					for (const game of games) {
+						const link = document.createElement('a');
+						link.innerHTML = `${game.gameName}`;
+						link.href = '${cdn}${game.gameIndex}';
+
+						document.getElementById('links').appendChild(tab);
+					}
+				} catch (error) {
+					console.error('LINKS ERROR:' + error);
+				}
+			}
+		</script>
 	</head>
-	<body></body>
+	<body>
+		<div id="links"></div>
+	</body>
 </html>
