@@ -1,234 +1,292 @@
 [
-    {
-        "gameIndex": "games/cookieclicker/index.html",
-        "gameName": "Cookie Clicker"
-    },
-    {
-        "gameIndex": "games/tetris/index.html",
-        "gameName": "Tetris"
-    },
-    {
-        "gameIndex": "games/worldshardestgame/index.html",
-        "gameName": "World's Hardest Game"
-    },
-    {
-        "gameIndex": "games/fnaf4/index.html",
-        "gameName": "FNAF 4"
-    },
-    {
-        "gameIndex": "games/stack/index.html",
-        "gameName": "Stack"
-    },
-    {
-        "gameIndex": "games/stickmanhook/index.html",
-        "gameName": "Stickman Hook"
-    },
-    {
-        "gameIndex": "games/wordle/index.html",
-        "gameName": "Wordle"
-    },
-    {
-        "gameIndex": "games/animatorvsanimation/index.html",
-        "gameName": "Animator Vs Animation"
-    },
-    {
-        "gameIndex": "games/bloxorz/index.html",
-        "gameName": "Bloxorz"
-    },
-    {
-        "gameIndex": "games/crossyroad/index.html",
-        "gameName": "Crossy Road"
-    },
-    {
-        "gameIndex": "games/cuttherope/index.html",
-        "gameName": "Cut the Rope"
-    },
-    {
-        "gameIndex": "games/cuttheropeholidaygift/index.html",
-        "gameName": "Cut the Rope: Holiday Gift"
-    },
-    {
-        "gameIndex": "games/cuttheropetimetravel/index.html",
-        "gameName": "Cut the Rope: Time Travel"
-    },
-    {
-        "gameIndex": "games/bitlife/index.html",
-        "gameName": "BitLife"
-    },
-    {
-        "gameIndex": "games/2048/index.html",
-        "gameName": "2048"
-    },
-    {
-        "gameIndex": "games/1v1lol/index.html",
-        "gameName": "1v1.lol"
-    },
-    {
-        "gameIndex": "games/bloonstd5/index.html",
-        "gameName": "Bloons TD 5"
-    },
-    {
-        "gameIndex": "games/craftmine/index.html",
-        "gameName": "Craftmine"
-    },
-    {
-        "gameIndex": "games/douchebaglife/index.html",
-        "gameName": "Douchebag Life"
-    },
-    {
-        "gameIndex": "games/douchebagworkout2/index.html",
-        "gameName": "Douchebag Workout 2"
-    },
-    {
-        "gameIndex": "games/drawthehill/index.html",
-        "gameName": "Draw the Hill"
-    },
-    {
-        "gameIndex": "games/fnaf1/index.html",
-        "gameName": "FNAF 1"
-    },
-    {
-        "gameIndex": "games/fridaynightfunkin/index.html",
-        "gameName": "Friday Night Funkin'"
-    },
-    {
-        "gameIndex": "games/fruitninja/index.html",
-        "gameName": "Fruit Ninja"
-    },
-    {
-        "gameIndex": "games/googledino/index.html",
-        "gameName": "Google Dino"
-    },
-    {
-        "gameIndex": "games/happywheels/index.html",
-        "gameName": "Happy Wheels"
-    },
-    {
-        "gameIndex": "games/theimpossiblequiz/index.html",
-        "gameName": "The Impossible Quiz"
-    },
-    {
-        "gameIndex": "games/jetpackjoyride/index.html",
-        "gameName": "Jetpack Joyride"
-    },
-    {
-        "gameIndex": "games/learntofly2/index.html",
-        "gameName": "Learn to Fly 2"
-    },
-    {
-        "gameIndex": "games/learntofly1/index.html",
-        "gameName": "Learn to Fly 1"
-    },
-    {
-        "gameIndex": "games/minecraft/index.html",
-        "gameName": "Minecraft: Classic"
-    },
-    {
-        "gameIndex": "games/motox3m/index.html",
-        "gameName": "MotoX3M"
-    },
-    {
-        "gameIndex": "games/motox3m2/index.html",
-        "gameName": "MotoX3M 2"
-    },
-    {
-        "gameIndex": "games/papasburgeria/index.html",
-        "gameName": "Papa's Burgeria"
-    },
-    {
-        "gameIndex": "games/papasfreezeria/index.html",
-        "gameName": "Papa's Freezeria"
-    },
-    {
-        "gameIndex": "games/papaspancakeria/index.html",
-        "gameName": "Papa's Pancakeria"
-    },
-    {
-        "gameIndex": "games/papaspastaria/index.html",
-        "gameName": "Papa's Pastaria"
-    },
-    {
-        "gameIndex": "games/papaspizzaria/index.html",
-        "gameName": "Papa's Pizzaria"
-    },
-    {
-        "gameIndex": "games/papassushiria/index.html",
-        "gameName": "Papa's Sushiria"
-    },
-    {
-        "gameIndex": "games/paperio2/index.html",
-        "gameName": "Paper.io 2"
-    },
-    {
-        "gameIndex": "games/paperyplanes/index.html",
-        "gameName": "Papery Planes"
-    },
-    {
-        "gameIndex": "games/portalflash/index.html",
-        "gameName": "Portal: Flash"
-    },
-    {
-        "gameIndex": "games/resentclient/index.html",
-        "gameName": "Resent Client"
-    },
-    {
-        "gameIndex": "games/retrobowl/index.html",
-        "gameName": "Retro Bowl"
-    },
-    {
-        "gameIndex": "games/rocketsoccer/index.html",
-        "gameName": "Rocket Soccer"
-    },
-    {
-        "gameIndex": "games/slope/index.html",
-        "gameName": "Slope"
-    },
-    {
-        "gameIndex": "games/solitaire/index.html",
-        "gameName": "Solitaire"
-    },
-    {
-        "gameIndex": "games/subwaysurferssanfrancisco/index.html",
-        "gameName": "Subway Surfers: San Francisco"
-    },
-    {
-        "gameIndex": "games/subwaysurferszurich/index.html",
-        "gameName": "Subway Surfers: Zurich"
-    },
-    {
-        "gameIndex": "games/superhot/index.html",
-        "gameName": "Superhot"
-    },
-    {
-        "gameIndex": "games/templerun2/index.html",
-        "gameName": "Temple Run 2"
-    },
-    {
-        "gameIndex": "games/thebindingofisaac/index.html",
-        "gameName": "The Binding of Isaac"
-    },
-    {
-        "gameIndex": "games/transcube/index.html",
-        "gameName": "Transcube"
-    },
-    {
-        "gameIndex": "games/breakingthebank/index.html",
-        "gameName": "Breaking the Bank"
-    },
-    {
-        "gameIndex": "games/escapingtheprison/index.html",
-        "gameName": "Escaping the Prison"
-    },
-    {
-        "gameIndex": "games/fleeingthecomplex/index.html",
-        "gameName": "Fleeing the Complex"
-    },
-    {
-        "gameIndex": "games/infiltratingtheairship/index.html",
-        "gameName": "Infiltrating the Airship"
-    },
-    {
-        "gameIndex": "games/stealingthediamond/index.html",
-        "gameName": "Stealing the Diamond"
-    }
+	{
+		"gameIndex": "games/1v1lol/index.html",
+		"gameName": "1v1.lol",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/2048/index.html",
+		"gameName": "2048",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/animatorvsanimation/index.html",
+		"gameName": "Animator Vs Animation",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/bitlife/index.html",
+		"gameName": "BitLife",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/bloonstd5/index.html",
+		"gameName": "Bloons TD 5",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/bloxorz/index.html",
+		"gameName": "Bloxorz",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/breakingthebank/index.html",
+		"gameName": "Breaking the Bank",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/cookieclicker/index.html",
+		"gameName": "Cookie Clicker",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/craftmine/index.html",
+		"gameName": "Craftmine",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/crossyroad/index.html",
+		"gameName": "Crossy Road",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/cuttherope/index.html",
+		"gameName": "Cut the Rope",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/cuttheropeholidaygift/index.html",
+		"gameName": "Cut the Rope: Holiday Gift",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/cuttheropetimetravel/index.html",
+		"gameName": "Cut the Rope: Time Travel",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/douchebaglife/index.html",
+		"gameName": "Douchebag Life",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/douchebagworkout2/index.html",
+		"gameName": "Douchebag Workout 2",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/drawthehill/index.html",
+		"gameName": "Draw the Hill",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/escapingtheprison/index.html",
+		"gameName": "Escaping the Prison",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/fleeingthecomplex/index.html",
+		"gameName": "Fleeing the Complex",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/fnaf1/index.html",
+		"gameName": "FNAF 1",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/fnaf4/index.html",
+		"gameName": "FNAF 4",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/fridaynightfunkin/index.html",
+		"gameName": "Friday Night Funkin'",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/fruitninja/index.html",
+		"gameName": "Fruit Ninja",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/googledino/index.html",
+		"gameName": "Google Dino",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/happywheels/index.html",
+		"gameName": "Happy Wheels",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/infiltratingtheairship/index.html",
+		"gameName": "Infiltrating the Airship",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/jetpackjoyride/index.html",
+		"gameName": "Jetpack Joyride",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/learntofly1/index.html",
+		"gameName": "Learn to Fly 1",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/learntofly2/index.html",
+		"gameName": "Learn to Fly 2",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/minecraft/index.html",
+		"gameName": "Minecraft: Classic",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/motox3m/index.html",
+		"gameName": "MotoX3M",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/motox3m2/index.html",
+		"gameName": "MotoX3M 2",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/papasburgeria/index.html",
+		"gameName": "Papa's Burgeria",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/papasfreezeria/index.html",
+		"gameName": "Papa's Freezeria",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/papaspancakeria/index.html",
+		"gameName": "Papa's Pancakeria",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/papaspastaria/index.html",
+		"gameName": "Papa's Pastaria",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/papaspizzaria/index.html",
+		"gameName": "Papa's Pizzaria",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/papassushiria/index.html",
+		"gameName": "Papa's Sushiria",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/paperio2/index.html",
+		"gameName": "Paper.io 2",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/paperyplanes/index.html",
+		"gameName": "Papery Planes",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/portalflash/index.html",
+		"gameName": "Portal: Flash",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/resentclient/index.html",
+		"gameName": "Resent Client",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/retrobowl/index.html",
+		"gameName": "Retro Bowl",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/rocketsoccer/index.html",
+		"gameName": "Rocket Soccer",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/slope/index.html",
+		"gameName": "Slope",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/solitaire/index.html",
+		"gameName": "Solitaire",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/stack/index.html",
+		"gameName": "Stack",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/stealingthediamond/index.html",
+		"gameName": "Stealing the Diamond",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/stickmanhook/index.html",
+		"gameName": "Stickman Hook",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/subwaysurferssanfrancisco/index.html",
+		"gameName": "Subway Surfers: San Francisco",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/subwaysurferszurich/index.html",
+		"gameName": "Subway Surfers: Zurich",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/superhot/index.html",
+		"gameName": "Superhot",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/templerun2/index.html",
+		"gameName": "Temple Run 2",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/tetris/index.html",
+		"gameName": "Tetris",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/thebindingofisaac/index.html",
+		"gameName": "The Binding of Isaac",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/theimpossiblequiz/index.html",
+		"gameName": "The Impossible Quiz",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/transcube/index.html",
+		"gameName": "Transcube",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/wordle/index.html",
+		"gameName": "Wordle",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/worldshardestgame/index.html",
+		"gameName": "World's Hardest Game",
+		"popular": true
+	}
 ]
