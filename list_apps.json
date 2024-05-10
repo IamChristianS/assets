@@ -1,0 +1,18 @@
+[
+	{
+		"gameIndex": "apps/desmos/index.html",
+		"gameName": "Desmos"
+	},
+    {
+		"gameIndex": "apps/chatgpt/index.html",
+		"gameName": "ChatGPT"
+	},
+    {
+		"gameIndex": "apps/test/index.html",
+		"gameName": "name"
+	},
+    {
+		"gameIndex": "apps/test/index.html",
+		"gameName": "name"
+	},
+]
