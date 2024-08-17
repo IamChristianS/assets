@@ -2,7 +2,7 @@
 	{
 		"gameIndex": "games/1v1lol/index.html",
 		"gameName": "1v1.lol",
-		"popular": false
+		"popular": true
 	},
 	{
 		"gameIndex": "games/2048/index.html",
@@ -155,7 +155,7 @@
 		"popular": false
 	},
     {
-		"gameIndex": "games/infinitemariobros/index.html",
+		"gameIndex": "games/infinitemariobros/main.html",
 		"gameName": "Infinite Mario Bros",
 		"popular": false
 	},
