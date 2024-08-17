@@ -80,8 +80,38 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "games/ducklife1/index.html",
+		"gameName": "Duck Life 1",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/ducklife2/index.html",
+		"gameName": "Duck Life 2",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/ducklife3/index.html",
+		"gameName": "Duck Life 3",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/ducklife4/index.html",
+		"gameName": "Duck Life 4",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/dune/index.html",
+		"gameName": "Dune",
+		"popular": false
+	},
+	{
 		"gameIndex": "games/escapingtheprison/index.html",
 		"gameName": "Escaping the Prison",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/flappybird/index.html",
+		"gameName": "Flappy Bird",
 		"popular": false
 	},
 	{
@@ -122,6 +152,11 @@
 	{
 		"gameIndex": "games/infiltratingtheairship/index.html",
 		"gameName": "Infiltrating the Airship",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/infinitemariobros/index.html",
+		"gameName": "Infinite Mario Bros",
 		"popular": false
 	},
 	{
@@ -199,6 +234,11 @@
 		"gameName": "Portal: Flash",
 		"popular": false
 	},
+    {
+		"gameIndex": "games/redball4/index.html",
+		"gameName": "Red Ball 4",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/resentclient/index.html",
 		"gameName": "Resent Client",
@@ -207,6 +247,41 @@
 	{
 		"gameIndex": "games/retrobowl/index.html",
 		"gameName": "Retro Bowl",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/riddleschool1/index.html",
+		"gameName": "Riddle School 1",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/riddleschool2/index.html",
+		"gameName": "Riddle School 2",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/riddleschool3/index.html",
+		"gameName": "Riddle School 3",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/riddleschool4/index.html",
+		"gameName": "Riddle School 4",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/riddleschool5/index.html",
+		"gameName": "Riddle School 5",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/riddleschool1/index.html",
+		"gameName": "Riddle Transfer 1",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/riddletransfer2/index.html",
+		"gameName": "Riddle Transfer 2",
 		"popular": false
 	},
 	{
@@ -222,6 +297,11 @@
 	{
 		"gameIndex": "games/solitaire/index.html",
 		"gameName": "Solitaire",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/sonicflash/index.html",
+		"gameName": "Sonic: Flash",
 		"popular": false
 	},
 	{
@@ -254,6 +334,16 @@
 		"gameName": "Superhot",
 		"popular": false
 	},
+    {
+		"gameIndex": "games/supermario64/index.html",
+		"gameName": "Super Mario 64",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/supersmashflash/index.html",
+		"gameName": "Super Smash Flash",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/templerun2/index.html",
 		"gameName": "Temple Run 2",
@@ -272,6 +362,11 @@
 	{
 		"gameIndex": "games/theimpossiblequiz/index.html",
 		"gameName": "The Impossible Quiz",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/thereisnogame/index.html",
+		"gameName": "There Is No Game",
 		"popular": false
 	},
 	{
