@@ -1,18 +1,6 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<!-- Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-F9EPE334ZB"></script>
-		<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag() {
-				dataLayer.push(arguments);
-			}
-			gtag('js', new Date());
-
-			gtag('config', 'G-F9EPE334ZB');
-		</script>
-		<!-- Google Analytics -->
 		<meta charset="UTF-8" />
 		<meta name="language" content="en" />
 		<meta name="robots" content="index, follow" />
@@ -28,15 +16,37 @@
 						link.innerHTML = `
                             <a href='${cdn}${game.gameIndex}'> ${game.gameName}</a>`;
 
-						document.getElementById('links').appendChild(link);
+						document.getElementById('game-links').appendChild(link);
 					}
 				} catch (error) {
-					console.error('LINKS ERROR:' + error);
+					console.error('game-links ERROR:' + error);
+				}
+			}
+
+            async function addApps() {
+				try {
+					const cdn = 'https://iamchristians.github.io/assets/';
+					const apps = await (await fetch(cdn + 'list_apps.json')).json();
+					apps.sort((a, b) => a.appName.localeCompare(b.appName));
+
+					for (const app of apps) {
+						const link = document.createElement('li');
+						link.innerHTML = `
+                            <a href='${cdn}${app.appIndex}'> ${app.appName}</a>`;
+
+						document.getElementById('app-links').appendChild(link);
+					}
+				} catch (error) {
+					console.error('app-links ERROR:' + error);
 				}
 			}
 		</script>
 	</head>
-	<body onload="addGames();">
-		<ul id="links"></ul>
+	<body onload="addGames(); addApps();">
+        <h1>Games</h1>
+		<ul id="game-links"></ul>
+
+        <h1>Apps</h1>
+		<ul id="app-links"></ul>
 	</body>
 </html>
