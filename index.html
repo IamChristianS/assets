@@ -23,7 +23,7 @@
 				}
 			}
 
-            async function addApps() {
+			async function addApps() {
 				try {
 					const cdn = 'https://iamchristians.github.io/assets/';
 					const apps = await (await fetch(cdn + 'list_apps.json')).json();
@@ -43,10 +43,10 @@
 		</script>
 	</head>
 	<body onload="addGames(); addApps();">
-        <h1>Games</h1>
+		<h1>Games</h1>
 		<ul id="game-links"></ul>
 
-        <h1>Apps</h1>
+		<h1>Apps</h1>
 		<ul id="app-links"></ul>
 	</body>
 </html>
