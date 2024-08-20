@@ -1,18 +1,14 @@
 [
 	{
-		"gameIndex": "apps/desmos/index.html",
-		"gameName": "Desmos"
+		"appIndex": "apps/desmos/index.html",
+		"appName": "Desmos"
 	},
     {
-		"gameIndex": "apps/chatgpt/index.html",
-		"gameName": "ChatGPT"
+		"appIndex": "apps/mathway/index.html",
+		"appName": "Mathway"
 	},
     {
-		"gameIndex": "apps/test/index.html",
-		"gameName": "name"
-	},
-    {
-		"gameIndex": "apps/test/index.html",
-		"gameName": "name"
+		"appIndex": "apps/test/index.html",
+		"appName": "name"
 	}
 ]
