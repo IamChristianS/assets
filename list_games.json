@@ -19,6 +19,11 @@
 		"gameName": "BitLife",
 		"popular": true
 	},
+    {
+		"gameIndex": "games/blockblast/index.html",
+		"gameName": "Block Blast",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/bloonstd5/index.html",
 		"gameName": "Bloons TD 5",
