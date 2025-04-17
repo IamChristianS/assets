@@ -234,6 +234,16 @@
 		"gameName": "Papery Planes",
 		"popular": false
 	},
+    {
+		"gameIndex": "launcher.html",
+		"gameName": "Pokemon: Fire Red",
+		"popular": true
+	},
+    {
+		"gameIndex": "games/portalflash/index.html",
+		"gameName": "Portal: Flash",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/portalflash/index.html",
 		"gameName": "Portal: Flash",

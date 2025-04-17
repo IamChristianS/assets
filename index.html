@@ -13,8 +13,14 @@
 
 					for (const game of games) {
 						const link = document.createElement('li');
-						link.innerHTML = `
-                            <a href='${cdn}${game.gameIndex}'> ${game.gameName}</a>`;
+
+						if (game.gameIndex.startsWith('launcher')) {
+							link.innerHTML = `
+                                <a href='${cdn}${game.gameIndex}#${game.gameName.toLowerCase().replace(/[^a-zA-Z]/g, '')}'> ${game.gameName}</a>`;
+						} else {
+							link.innerHTML = `
+                                <a href='${cdn}${game.gameIndex}'> ${game.gameName}</a>`;
+						}
 
 						document.getElementById('game-links').appendChild(link);
 					}
