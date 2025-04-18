@@ -19,7 +19,7 @@
 		"gameName": "BitLife",
 		"popular": true
 	},
-    {
+	{
 		"gameIndex": "games/blockblast/index.html",
 		"gameName": "Block Blast",
 		"popular": false
@@ -114,7 +114,7 @@
 		"gameName": "Escaping the Prison",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/flappybird/index.html",
 		"gameName": "Flappy Bird",
 		"popular": false
@@ -159,7 +159,7 @@
 		"gameName": "Infiltrating the Airship",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/infinitemariobros/main.html",
 		"gameName": "Infinite Mario Bros",
 		"popular": false
@@ -234,18 +234,18 @@
 		"gameName": "Papery Planes",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "launcher.html",
 		"gameName": "Pokemon: Fire Red",
 		"popular": true,
-        "romName": "pokemonred"
+		"romName": "pokemonred"
 	},
 	{
 		"gameIndex": "games/portalflash/index.html",
 		"gameName": "Portal: Flash",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/redball4/index.html",
 		"gameName": "Red Ball 4",
 		"popular": false
@@ -260,37 +260,37 @@
 		"gameName": "Retro Bowl",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/riddleschool1/index.html",
 		"gameName": "Riddle School 1",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/riddleschool2/index.html",
 		"gameName": "Riddle School 2",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/riddleschool3/index.html",
 		"gameName": "Riddle School 3",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/riddleschool4/index.html",
 		"gameName": "Riddle School 4",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/riddleschool5/index.html",
 		"gameName": "Riddle School 5",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/riddletransfer1/index.html",
 		"gameName": "Riddle Transfer 1",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/riddletransfer2/index.html",
 		"gameName": "Riddle Transfer 2",
 		"popular": false
@@ -310,7 +310,7 @@
 		"gameName": "Solitaire",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/sonicflash/index.html",
 		"gameName": "Sonic: Flash",
 		"popular": false
@@ -345,12 +345,12 @@
 		"gameName": "Superhot",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/supermario64/index.html",
 		"gameName": "Super Mario 64",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/supersmashflash/index.html",
 		"gameName": "Super Smash Flash",
 		"popular": false
@@ -375,7 +375,7 @@
 		"gameName": "The Impossible Quiz",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/thereisnogame/index.html",
 		"gameName": "There Is No Game",
 		"popular": false
