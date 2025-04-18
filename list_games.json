@@ -237,7 +237,8 @@
     {
 		"gameIndex": "launcher.html",
 		"gameName": "Pokemon: Fire Red",
-		"popular": true
+		"popular": true,
+        "romName": "pokemonred"
 	},
 	{
 		"gameIndex": "games/portalflash/index.html",
