@@ -234,6 +234,12 @@
 		"gameName": "Papery Planes",
 		"popular": false
 	},
+    {
+		"gameIndex": "launcher.html",
+		"gameName": "Pokemon: Emerald",
+		"popular": true,
+		"romName": "pokemonemerald"
+	},
 	{
 		"gameIndex": "launcher.html",
 		"gameName": "Pokemon: Fire Red",
