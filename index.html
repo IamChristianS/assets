@@ -11,23 +11,15 @@
 					const games = await (await fetch(cdn + 'list_games.json')).json();
 					games.sort((a, b) => a.gameName.localeCompare(b.gameName));
 
+                    const list = document.getElementById('game-links');
+
 					for (const game of games) {
 						const link = document.createElement('li');
 
-						/* General Working WIP
-						if (game.gameIndex.startsWith('launcher')) {
-							link.innerHTML = `<a href='${cdn}${game.gameIndex}#${game.gameName.toLowerCase().replace(/[^a-zA-Z]/g, '')}'> ${game.gameName}</a>`;
-						} else {
-							link.innerHTML = `<a href='${cdn}${game.gameIndex}'> ${game.gameName}</a>`;
-						}
-                        */
+						const romPart = game.romName ? `#${game.romName}` : '';
+						link.innerHTML = `<a href='${cdn}${game.gameIndex}${romPart}'> ${game.gameName}</a>`;
 
-						if (game.romName != null) {
-							link.innerHTML = `<a href='${cdn}${game.gameIndex}#${game.romName}'> ${game.gameName}</a>`;
-						} else {
-							link.innerHTML = `<a href='${cdn}${game.gameIndex}'> ${game.gameName}</a>`;
-						}
-						document.getElementById('game-links').appendChild(link);
+						list.appendChild(link);
 					}
 				} catch (error) {
 					console.error('game-links ERROR:' + error);
@@ -40,12 +32,13 @@
 					const apps = await (await fetch(cdn + 'list_apps.json')).json();
 					apps.sort((a, b) => a.appName.localeCompare(b.appName));
 
+                    const list = document.getElementById('app-links');
+
 					for (const app of apps) {
 						const link = document.createElement('li');
-						link.innerHTML = `
-                            <a href='${cdn}${app.appIndex}'> ${app.appName}</a>`;
+						link.innerHTML = `<a href='${cdn}${app.appIndex}'> ${app.appName}</a>`;
 
-						document.getElementById('app-links').appendChild(link);
+						list.appendChild(link);
 					}
 				} catch (error) {
 					console.error('app-links ERROR:' + error);
