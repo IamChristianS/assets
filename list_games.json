@@ -9,6 +9,16 @@
 		"gameName": "2048",
 		"popular": false
 	},
+    {
+		"gameIndex": "games/aceattorney/index.html",
+		"gameName": "Ace Attorney",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/animalcrossingwildworld/index.html",
+		"gameName": "Animal Crossing: Wild World",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/animatorvsanimation/index.html",
 		"gameName": "Animator Vs Animation",
@@ -354,6 +364,11 @@
 	{
 		"gameIndex": "games/supermario64/index.html",
 		"gameName": "Super Mario 64",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/superscribblenauts/index.html",
+		"gameName": "Super Scribblenauts",
 		"popular": false
 	},
 	{
