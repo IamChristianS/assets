@@ -337,7 +337,7 @@
 	{
 		"gameIndex": "games/subwaysurferszurich/index.html",
 		"gameName": "Subway Surfers: Zurich",
-		"popular": false
+		"popular": true
 	},
 	{
 		"gameIndex": "games/superhot/index.html",
