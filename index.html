@@ -15,11 +15,9 @@
 						const link = document.createElement('li');
 
 						if (game.gameIndex.startsWith('launcher')) {
-							link.innerHTML = `
-                                <a href='${cdn}${game.gameIndex}#${game.gameName.toLowerCase().replace(/[^a-zA-Z]/g, '')}'> ${game.gameName}</a>`;
+							link.innerHTML = `<a href='${cdn}${game.gameIndex}#${game.gameName.toLowerCase().replace(/[^a-zA-Z]/g, '')}'> ${game.gameName}</a>`;
 						} else {
-							link.innerHTML = `
-                                <a href='${cdn}${game.gameIndex}'> ${game.gameName}</a>`;
+							link.innerHTML = `<a href='${cdn}${game.gameIndex}'> ${game.gameName}</a>`;
 						}
 
 						document.getElementById('game-links').appendChild(link);
