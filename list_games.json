@@ -79,6 +79,11 @@
 		"gameName": "Cut the Rope: Time Travel",
 		"popular": false
 	},
+    {
+		"gameIndex": "games/deltarune/index.html",
+		"gameName": "DELTARUNE",
+		"popular": true
+	},
 	{
 		"gameIndex": "games/douchebaglife/index.html",
 		"gameName": "Douchebag Life",
@@ -198,6 +203,16 @@
 		"gameIndex": "games/jetpackjoyride/index.html",
 		"gameName": "Jetpack Joyride",
 		"popular": true
+	},
+    {
+		"gameIndex": "games/kindergarten1/index.html",
+		"gameName": "Kindergarten 1",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/kindergarten2/index.html",
+		"gameName": "Kindergarten 2",
+		"popular": false
 	},
 	{
 		"gameIndex": "games/learntofly1/index.html",
@@ -424,6 +439,16 @@
 	{
 		"gameIndex": "games/transcube/index.html",
 		"gameName": "Transcube",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/undertale/index.html",
+		"gameName": "UNDERTALE",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/undertaleyellow/index.html",
+		"gameName": "UNDERTALE: Yellow",
 		"popular": false
 	},
 	{
