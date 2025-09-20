@@ -149,11 +149,6 @@
 		"gameName": "FNAF 2",
 		"popular": true
 	},
-    {
-		"gameIndex": "games/fnaf3/index.html",
-		"gameName": "FNAF 3",
-		"popular": false
-	},
 	{
 		"gameIndex": "games/fnaf4/index.html",
 		"gameName": "FNAF 4",
