@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<!-- Google Analytics -->
+        <!-- Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-F9EPE334ZB"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -13,40 +13,33 @@
 			gtag('config', 'G-F9EPE334ZB');
 		</script>
 		<!-- Google Analytics -->
-		<title>FNAF 1</title>
+		<!--
+        <base href="https://cdn.jsdelivr.net/gh/genizy/fnaf@latest/1/">
+        -->
+		<link rel="stylesheet" type="text/css" href="style.css" />
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-
-		<script>
-			if (!document.createElement('canvas').getContext) {
-				window.open('http://www.clickteam.com/html5-fallback', '_self');
-			}
-		</script>
-		<script src="src/Runtime.js"></script>
-		<style type="text/css">
-			body {
-				background: #000000;
-				margin: 0;
-				overflow: hidden;
-			}
-			p {
-				color: #ff0000;
-			}
-			#MMFCanvas {
-				width: 100vw;
-				height: 100vh;
-			}
-		</style>
+		<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, target-densitydpi=device-dpi" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+		<meta name="HandheldFriendly" content="true" />
+		<title>Five Nights at Freddy's 1</title>
 	</head>
+
 	<body>
-		<canvas id="MMFCanvas" width="1280" height="720">
-			<p>Your browser does not support Canvas.</p>
-		</canvas>
-		<script>
-			window.addEventListener('load', windowLoaded, false);
-			function windowLoaded() {
-				new Runtime('MMFCanvas', 'resources/FNAF1.cch');
-			}
-		</script>
+		<div style="display: inline-block; -webkit-user-select: none; text-align: left">
+			<canvas id="MMFCanvas" width="1280" height="720"> Your browser does not support Canvas, Please try again. </canvas>
+		</div>
+		<div id="progress-container">
+			<div style="margin-bottom: 6px">Downloading... <span id="download-text">0%</span></div>
+			<div style="width: 100%; background: #444; border-radius: 6px; overflow: hidden">
+				<div id="download-bar" style="height: 10px; background: #3b82f6; width: 0%; transition: width 0.2s"></div>
+			</div>
+			<div style="margin: 12px 0 6px">Extracting... <span id="extract-text">0%</span></div>
+			<div style="width: 100%; background: #444; border-radius: 6px; overflow: hidden">
+				<div id="extract-bar" style="height: 10px; background: #10b981; width: 0%; transition: width 0.2s"></div>
+			</div>
+		</div>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+		<script src="main.js"></script>
 	</body>
 </html>
