@@ -139,10 +139,30 @@
 		"gameName": "FNAF 1",
 		"popular": true
 	},
+    {
+		"gameIndex": "games/fnaf2/index.html",
+		"gameName": "FNAF 2",
+		"popular": true
+	},
+    {
+		"gameIndex": "games/fnaf3/index.html",
+		"gameName": "FNAF 3",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/fnaf4/index.html",
 		"gameName": "FNAF 4",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/fnafucn/index.html",
+		"gameName": "FNAF: UCN",
 		"popular": true
+	},
+    {
+		"gameIndex": "games/fnafworld/index.html",
+		"gameName": "FNAF World",
+		"popular": false
 	},
 	{
 		"gameIndex": "games/fridaynightfunkin/index.html",
