@@ -199,16 +199,6 @@
 		"gameName": "Jetpack Joyride",
 		"popular": true
 	},
-    {
-		"gameIndex": "games/kindergarten1/index.html",
-		"gameName": "Kindergarten 1",
-		"popular": false
-	},
-    {
-		"gameIndex": "games/kindergarten2/index.html",
-		"gameName": "Kindergarten 2",
-		"popular": false
-	},
 	{
 		"gameIndex": "games/learntofly1/index.html",
 		"gameName": "Learn to Fly 1",
