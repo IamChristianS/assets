@@ -2,19 +2,19 @@
 	{
 		"gameIndex": "games/1v1lol/index.html",
 		"gameName": "1v1.lol",
-		"popular": true
+		"popular": false
 	},
 	{
 		"gameIndex": "games/2048/index.html",
 		"gameName": "2048",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/aceattorney/index.html",
 		"gameName": "Ace Attorney",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/animalcrossingwildworld/index.html",
 		"gameName": "Animal Crossing: Wild World",
 		"popular": false
@@ -32,7 +32,7 @@
 	{
 		"gameIndex": "games/blockblast/index.html",
 		"gameName": "Block Blast",
-		"popular": false
+		"popular": true
 	},
 	{
 		"gameIndex": "games/bloonstd5/index.html",
@@ -79,7 +79,7 @@
 		"gameName": "Cut the Rope: Time Travel",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/deltarune/index.html",
 		"gameName": "DELTARUNE",
 		"popular": true
@@ -112,12 +112,12 @@
 	{
 		"gameIndex": "games/ducklife3/index.html",
 		"gameName": "Duck Life 3",
-		"popular": false
+		"popular": true
 	},
 	{
 		"gameIndex": "games/ducklife4/index.html",
 		"gameName": "Duck Life 4",
-		"popular": false
+		"popular": true
 	},
 	{
 		"gameIndex": "games/dune/index.html",
@@ -142,9 +142,9 @@
 	{
 		"gameIndex": "games/fnaf1/index.html",
 		"gameName": "FNAF 1",
-		"popular": true
+		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/fnaf2/index.html",
 		"gameName": "FNAF 2",
 		"popular": true
@@ -154,15 +154,15 @@
 		"gameName": "FNAF 4",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/fnafucn/index.html",
 		"gameName": "FNAF: UCN",
 		"popular": true
 	},
-    {
+	{
 		"gameIndex": "games/fnafworld/index.html",
 		"gameName": "FNAF World",
-		"popular": false
+		"popular": true
 	},
 	{
 		"gameIndex": "games/fridaynightfunkin/index.html",
@@ -172,7 +172,7 @@
 	{
 		"gameIndex": "games/fruitninja/index.html",
 		"gameName": "Fruit Ninja",
-		"popular": false
+		"popular": true
 	},
 	{
 		"gameIndex": "games/googledino/index.html",
@@ -207,12 +207,12 @@
 	{
 		"gameIndex": "games/learntofly2/index.html",
 		"gameName": "Learn to Fly 2",
-		"popular": false
+		"popular": true
 	},
 	{
 		"gameIndex": "games/minecraft/index.html",
 		"gameName": "Minecraft: Classic",
-		"popular": true
+		"popular": false
 	},
 	{
 		"gameIndex": "games/motox3m/index.html",
@@ -222,7 +222,7 @@
 	{
 		"gameIndex": "games/motox3m2/index.html",
 		"gameName": "MotoX3M 2",
-		"popular": false
+		"popular": true
 	},
 	{
 		"gameIndex": "games/papasburgeria/index.html",
@@ -264,7 +264,7 @@
 		"gameName": "Papery Planes",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "launcher.html",
 		"gameName": "Pokemon: Emerald",
 		"popular": true,
@@ -273,7 +273,7 @@
 	{
 		"gameIndex": "launcher.html",
 		"gameName": "Pokemon: Fire Red",
-		"popular": true,
+		"popular": false,
 		"romName": "pokemonred"
 	},
 	{
@@ -386,7 +386,7 @@
 		"gameName": "Super Mario 64",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/superscribblenauts/index.html",
 		"gameName": "Super Scribblenauts",
 		"popular": false
@@ -409,7 +409,7 @@
 	{
 		"gameIndex": "games/thebindingofisaac/index.html",
 		"gameName": "The Binding of Isaac",
-		"popular": true
+		"popular": false
 	},
 	{
 		"gameIndex": "games/theimpossiblequiz/index.html",
@@ -426,12 +426,12 @@
 		"gameName": "Transcube",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/undertale/index.html",
 		"gameName": "UNDERTALE",
-		"popular": false
+		"popular": true
 	},
-    {
+	{
 		"gameIndex": "games/undertaleyellow/index.html",
 		"gameName": "UNDERTALE: Yellow",
 		"popular": false
