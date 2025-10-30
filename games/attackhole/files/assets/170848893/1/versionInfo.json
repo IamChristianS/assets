@@ -1,0 +1,18 @@
+{
+  "env": "Dev",
+  "version": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 0
+  },
+  "environments": [
+    {
+      "name": "Dev",
+      "short": "d"
+    },
+    {
+      "name": "Production",
+      "short": "p"
+    }
+  ]
+}
