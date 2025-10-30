@@ -24,6 +24,11 @@
 		"gameName": "Animator Vs Animation",
 		"popular": false
 	},
+    {
+		"gameIndex": "games/aquaparkio/index.html",
+		"gameName": "Aquapark.io",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/bitlife/index.html",
 		"gameName": "BitLife",
