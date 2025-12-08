@@ -229,9 +229,24 @@
 		"gameName": "MotoX3M 2",
 		"popular": true
 	},
+    {
+		"gameIndex": "games/papasbakeria/index.html",
+		"gameName": "Papa's Bakeria",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/papasburgeria/index.html",
 		"gameName": "Papa's Burgeria",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/papascheeseria/index.html",
+		"gameName": "Papa's Cheeseria",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/papasdonuteria/index.html",
+		"gameName": "Papa's Donuteria",
 		"popular": false
 	},
 	{
