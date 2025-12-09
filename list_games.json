@@ -59,11 +59,6 @@
 		"gameName": "Breaking the Bank",
 		"popular": false
 	},
-    {
-		"gameIndex": "games/championarcher/index.html",
-		"gameName": "Champion Archer",
-		"popular": false
-	},
 	{
 		"gameIndex": "games/cookieclicker/index.html",
 		"gameName": "Cookie Clicker",
@@ -188,11 +183,6 @@
 		"gameIndex": "games/fruitninja/index.html",
 		"gameName": "Fruit Ninja",
 		"popular": true
-	},
-    {
-		"gameIndex": "games/geometrydash/index.html",
-		"gameName": "Geometry Dash",
-		"popular": false
 	},
 	{
 		"gameIndex": "games/googledino/index.html",
