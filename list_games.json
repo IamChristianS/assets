@@ -24,11 +24,6 @@
 		"gameName": "Animator Vs Animation",
 		"popular": false
 	},
-    {
-		"gameIndex": "games/aquaparkio/index.html",
-		"gameName": "Aquapark.io",
-		"popular": false
-	},
 	{
 		"gameIndex": "games/bitlife/index.html",
 		"gameName": "BitLife",
@@ -38,6 +33,16 @@
 		"gameIndex": "games/blockblast/index.html",
 		"gameName": "Block Blast",
 		"popular": true
+	},
+    {
+		"gameIndex": "games/bloonstd1/index.html",
+		"gameName": "Bloons TD 1",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/bloonstd2/index.html",
+		"gameName": "Bloons TD 2",
+		"popular": false
 	},
 	{
 		"gameIndex": "games/bloonstd5/index.html",
@@ -52,6 +57,11 @@
 	{
 		"gameIndex": "games/breakingthebank/index.html",
 		"gameName": "Breaking the Bank",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/championarcher/index.html",
+		"gameName": "Champion Archer",
 		"popular": false
 	},
 	{
@@ -179,6 +189,11 @@
 		"gameName": "Fruit Ninja",
 		"popular": true
 	},
+    {
+		"gameIndex": "games/geometrydash/index.html",
+		"gameName": "Geometry Dash",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/googledino/index.html",
 		"gameName": "Google Dino",
@@ -219,6 +234,11 @@
 		"gameName": "Minecraft: Classic",
 		"popular": false
 	},
+    {
+		"gameIndex": "games/miniputt/index.html",
+		"gameName": "Mini Putt",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/motox3m/index.html",
 		"gameName": "MotoX3M",
@@ -228,6 +248,11 @@
 		"gameIndex": "games/motox3m2/index.html",
 		"gameName": "MotoX3M 2",
 		"popular": true
+	},
+    {
+		"gameIndex": "games/pandemic2/index.html",
+		"gameName": "Pandemic 2",
+		"popular": false
 	},
     {
 		"gameIndex": "games/papasbakeria/index.html",
@@ -385,6 +410,11 @@
 		"gameIndex": "games/stickmanhook/index.html",
 		"gameName": "Stickman Hook",
 		"popular": true
+	},
+    {
+		"gameIndex": "games/stormthehouse2/index.html",
+		"gameName": "Storm the House 2",
+		"popular": false
 	},
 	{
 		"gameIndex": "games/subwaysurferssanfrancisco/index.html",
