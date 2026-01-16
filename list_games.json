@@ -189,6 +189,12 @@
 		"gameName": "Google Dino",
 		"popular": false
 	},
+    {
+		"gameIndex": "launcher.html",
+		"gameName": "Grand Theft Auto: Advance",
+		"popular": false,
+		"romName": "grandtheftautoadvance"
+	},
 	{
 		"gameIndex": "games/happywheels/index.html",
 		"gameName": "Happy Wheels",
