@@ -229,11 +229,6 @@
 		"gameName": "Mini Putt",
 		"popular": false
 	},
-    {
-		"gameIndex": "games/monsterhighghoulspirit/index.html",
-		"gameName": "Monster High - Ghoul Spirit",
-		"popular": false
-	},
 	{
 		"gameIndex": "games/motox3m/index.html",
 		"gameName": "MotoX3M",
