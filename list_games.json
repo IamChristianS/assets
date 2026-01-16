@@ -189,12 +189,6 @@
 		"gameName": "Google Dino",
 		"popular": false
 	},
-    {
-		"gameIndex": "launcher.html",
-		"gameName": "Grand Theft Auto: Advance",
-		"popular": false,
-		"romName": "grandtheftautoadvance"
-	},
 	{
 		"gameIndex": "games/happywheels/index.html",
 		"gameName": "Happy Wheels",
@@ -233,6 +227,11 @@
     {
 		"gameIndex": "games/miniputt/index.html",
 		"gameName": "Mini Putt",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/monsterhighghoulspirit/index.html",
+		"gameName": "Monster High - Ghoul Spirit",
 		"popular": false
 	},
 	{
