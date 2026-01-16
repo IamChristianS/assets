@@ -64,6 +64,21 @@
 		"gameName": "Cookie Clicker",
 		"popular": true
 	},
+    {
+		"gameIndex": "games/cookingmama/index.html",
+		"gameName": "Cooking Mama",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/cookingmama2/index.html",
+		"gameName": "Cooking Mama 2",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/cookingmama3/index.html",
+		"gameName": "Cooking Mama 3",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/craftmine/index.html",
 		"gameName": "Craftmine",
@@ -240,6 +255,11 @@
 		"popular": true
 	},
     {
+		"gameIndex": "games/monsterhighghoulspirit/index.html",
+		"gameName": "Monster High - Ghoul Spirit",
+		"popular": false
+	},
+    {
 		"gameIndex": "games/pandemic2/index.html",
 		"gameName": "Pandemic 2",
 		"popular": false
@@ -304,6 +324,11 @@
 		"gameName": "Pokemon: Emerald",
 		"popular": true,
 		"romName": "pokemonemerald"
+	},
+    {
+		"gameIndex": "games/pokemonpearl/index.html",
+		"gameName": "Pokemon: Pearl",
+		"popular": false
 	},
 	{
 		"gameIndex": "launcher.html",
