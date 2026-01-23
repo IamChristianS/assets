@@ -24,6 +24,11 @@
 		"gameName": "Animator Vs Animation",
 		"popular": false
 	},
+    {
+		"gameIndex": "games/basketballstars/index.html",
+		"gameName": "Basketball Stars",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/bitlife/index.html",
 		"gameName": "BitLife",
@@ -209,6 +214,16 @@
 		"gameName": "Happy Wheels",
 		"popular": false
 	},
+    {
+		"gameIndex": "games/hextris/index.html",
+		"gameName": "Hextris",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/hollowknight/index.html",
+		"gameName": "Hollow Knight",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/infiltratingtheairship/index.html",
 		"gameName": "Infiltrating the Airship",
@@ -217,6 +232,11 @@
 	{
 		"gameIndex": "games/infinitemariobros/main.html",
 		"gameName": "Infinite Mario Bros",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/interactivebuddy/index.html",
+		"gameName": "Interactive Buddy",
 		"popular": false
 	},
 	{
@@ -233,6 +253,16 @@
 		"gameIndex": "games/learntofly2/index.html",
 		"gameName": "Learn to Fly 2",
 		"popular": true
+	},
+    {
+		"gameIndex": "games/madalinstuntcars2/index.html",
+		"gameName": "Madalin Stunt Cars 2",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/madalinstuntcars3/index.html",
+		"gameName": "Madalin Stunt Cars 3",
+		"popular": false
 	},
 	{
 		"gameIndex": "games/minecraft/index.html",
@@ -257,6 +287,11 @@
     {
 		"gameIndex": "games/monsterhighghoulspirit/index.html",
 		"gameName": "Monster High - Ghoul Spirit",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/ngon/index.html",
+		"gameName": "N-Gon",
 		"popular": false
 	},
     {
@@ -396,6 +431,16 @@
 		"gameName": "Rocket Soccer",
 		"popular": false
 	},
+    {
+		"gameIndex": "games/rollyvortex/index.html",
+		"gameName": "Rolly Vortex",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/sandgame/index.html",
+		"gameName": "Sand Game",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/slope/index.html",
 		"gameName": "Slope",
@@ -461,6 +506,11 @@
 		"gameName": "Super Smash Flash",
 		"popular": false
 	},
+    {
+		"gameIndex": "games/tanukisunset/index.html",
+		"gameName": "Tanuki Sunset",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/templerun2/index.html",
 		"gameName": "Temple Run 2",
@@ -486,6 +536,11 @@
 		"gameName": "There Is No Game",
 		"popular": false
 	},
+    {
+		"gameIndex": "games/townscaper/index.html",
+		"gameName": "Townscaper",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/transcube/index.html",
 		"gameName": "Transcube",
@@ -501,6 +556,21 @@
 		"gameName": "UNDERTALE: Yellow",
 		"popular": false
 	},
+    {
+		"gameIndex": "games/vex4/index.html",
+		"gameName": "Vex 4",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/vex5/index.html",
+		"gameName": "Vex 5",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/vex6/index.html",
+		"gameName": "Vex 6",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/wordle/index.html",
 		"gameName": "Wordle",
@@ -510,5 +580,10 @@
 		"gameIndex": "games/worldshardestgame/index.html",
 		"gameName": "World's Hardest Game",
 		"popular": true
+	},
+    {
+		"gameIndex": "games/worldshardestgame2/index.html",
+		"gameName": "World's Hardest Game 2",
+		"popular": false
 	}
 ]
