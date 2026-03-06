@@ -14,6 +14,11 @@
 		"gameName": "Ace Attorney",
 		"popular": false
 	},
+    {
+		"gameIndex": "games/adventurecapitalist/index.html",
+		"gameName": "AdVenture Capitalist",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/animalcrossingwildworld/index.html",
 		"gameName": "Animal Crossing: Wild World",
@@ -72,6 +77,11 @@
 	{
 		"gameIndex": "games/breakingthebank/index.html",
 		"gameName": "Breaking the Bank",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/celeste/index.html",
+		"gameName": "Celeste",
 		"popular": false
 	},
 	{
@@ -217,6 +227,11 @@
 	{
 		"gameIndex": "games/googledino/index.html",
 		"gameName": "Google Dino",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/gorillatag/index.html",
+		"gameName": "Gorilla Tag",
 		"popular": false
 	},
 	{
