@@ -1,7 +1,7 @@
 [
-	{
-		"gameIndex": "games/1v1lol/index.html",
-		"gameName": "1v1.lol",
+    {
+		"gameIndex": "games/3dcity/index.html",
+		"gameName": "3D.CITY",
 		"popular": false
 	},
 	{
@@ -25,8 +25,18 @@
 		"popular": false
 	},
     {
+		"gameIndex": "games/backrooms/index.html",
+		"gameName": "Backrooms",
+		"popular": false
+	},
+    {
 		"gameIndex": "games/basketballstars/index.html",
 		"gameName": "Basketball Stars",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/beeswarmsimulator/index.html",
+		"gameName": "Bee Swarm Simulator",
 		"popular": false
 	},
 	{
