@@ -1,5 +1,5 @@
-(function(){
-    window.mapMesh=`
+(function () {
+	window.mapMesh = `
 
 
 window.stuffColorShiftedForBeesmas=0
@@ -1741,5 +1741,5 @@ cylinder(-23.5-0.1,13.7,5-0.1,0.4,0.7,9,1.4,0.4,1.4,0.7,-45,45,0);
 
 
 
-`
-})()
+`;
+})();
