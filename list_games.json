@@ -1,5 +1,5 @@
 [
-    {
+	{
 		"gameIndex": "games/3dcity/index.html",
 		"gameName": "3D.CITY",
 		"popular": false
@@ -14,7 +14,7 @@
 		"gameName": "Ace Attorney",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/adventurecapitalist/index.html",
 		"gameName": "AdVenture Capitalist",
 		"popular": true
@@ -29,22 +29,27 @@
 		"gameName": "Animator Vs Animation",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/backrooms/index.html",
 		"gameName": "Backrooms",
 		"popular": false
 	},
-    {
+	{
+		"gameIndex": "games/badtimesimulator/index.html",
+		"gameName": "Bad Time Simulator",
+		"popular": true
+	},
+	{
 		"gameIndex": "games/balatro/index.html",
 		"gameName": "Balatro",
 		"popular": true
 	},
-    {
+	{
 		"gameIndex": "games/basketballstars/index.html",
 		"gameName": "Basketball Stars",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/beeswarmsimulator/index.html",
 		"gameName": "Bee Swarm Simulator",
 		"popular": false
@@ -59,14 +64,19 @@
 		"gameName": "Block Blast",
 		"popular": true
 	},
-    {
+	{
 		"gameIndex": "games/bloonstd1/index.html",
 		"gameName": "Bloons TD 1",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/bloonstd2/index.html",
 		"gameName": "Bloons TD 2",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/bloonstd3/index.html",
+		"gameName": "Bloons TD 3",
 		"popular": false
 	},
 	{
@@ -80,11 +90,16 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "games/bobtherobber2/index.html",
+		"gameName": "Bob the Robber 2",
+		"popular": false
+	},
+	{
 		"gameIndex": "games/breakingthebank/index.html",
 		"gameName": "Breaking the Bank",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/celeste/index.html",
 		"gameName": "Celeste",
 		"popular": false
@@ -94,17 +109,17 @@
 		"gameName": "Cookie Clicker",
 		"popular": true
 	},
-    {
+	{
 		"gameIndex": "games/cookingmama/index.html",
 		"gameName": "Cooking Mama",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/cookingmama2/index.html",
 		"gameName": "Cooking Mama 2",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/cookingmama3/index.html",
 		"gameName": "Cooking Mama 3",
 		"popular": false
@@ -175,6 +190,16 @@
 		"popular": true
 	},
 	{
+		"gameIndex": "games/ducklifespace/index.html",
+		"gameName": "Duck Life: Space",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/ducklifetreasurehunt/index.html",
+		"gameName": "Duck Life: Treasure Hunt",
+		"popular": false
+	},
+	{
 		"gameIndex": "games/dune/index.html",
 		"gameName": "Dune",
 		"popular": false
@@ -234,9 +259,14 @@
 		"gameName": "Google Dino",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/gorillatag/index.html",
 		"gameName": "Gorilla Tag",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/grandtheftautoadvance/index.html",
+		"gameName": "Grand Theft Auto: Advance",
 		"popular": false
 	},
 	{
@@ -244,12 +274,12 @@
 		"gameName": "Happy Wheels",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/hextris/index.html",
 		"gameName": "Hextris",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/hollowknight/index.html",
 		"gameName": "Hollow Knight",
 		"popular": false
@@ -264,7 +294,7 @@
 		"gameName": "Infinite Mario Bros",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/interactivebuddy/index.html",
 		"gameName": "Interactive Buddy",
 		"popular": false
@@ -284,12 +314,17 @@
 		"gameName": "Learn to Fly 2",
 		"popular": true
 	},
-    {
+	{
+		"gameIndex": "games/littlealchemy/index.html",
+		"gameName": "Little Alchemy",
+		"popular": true
+	},
+	{
 		"gameIndex": "games/madalinstuntcars2/index.html",
 		"gameName": "Madalin Stunt Cars 2",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/madalinstuntcars3/index.html",
 		"gameName": "Madalin Stunt Cars 3",
 		"popular": false
@@ -299,7 +334,7 @@
 		"gameName": "Minecraft: Classic",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/miniputt/index.html",
 		"gameName": "Mini Putt",
 		"popular": false
@@ -314,22 +349,27 @@
 		"gameName": "MotoX3M 2",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/monsterhighghoulspirit/index.html",
 		"gameName": "Monster High - Ghoul Spirit",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/ngon/index.html",
 		"gameName": "N-Gon",
 		"popular": false
 	},
-    {
+	{
+		"gameIndex": "games/nintendogsbestfriends/index.html",
+		"gameName": "Nintendogs: Best Friends",
+		"popular": false
+	},
+	{
 		"gameIndex": "games/pandemic2/index.html",
 		"gameName": "Pandemic 2",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/papasbakeria/index.html",
 		"gameName": "Papa's Bakeria",
 		"popular": false
@@ -339,12 +379,12 @@
 		"gameName": "Papa's Burgeria",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/papascheeseria/index.html",
 		"gameName": "Papa's Cheeseria",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/papasdonuteria/index.html",
 		"gameName": "Papa's Donuteria",
 		"popular": false
@@ -370,8 +410,18 @@
 		"popular": true
 	},
 	{
+		"gameIndex": "games/papasscooperia/index.html",
+		"gameName": "Papa's Scooperia",
+		"popular": false
+	},
+	{
 		"gameIndex": "games/papassushiria/index.html",
 		"gameName": "Papa's Sushiria",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/papaswingeria/index.html",
+		"gameName": "Papa's Wingeria",
 		"popular": false
 	},
 	{
@@ -385,21 +435,49 @@
 		"popular": false
 	},
 	{
-		"gameIndex": "launcher.html",
-		"gameName": "Pokemon: Emerald",
-		"popular": true,
-		"romName": "pokemonemerald"
+		"gameIndex": "games/pizzatower/index.html",
+		"gameName": "Pizza Tower",
+		"popular": false
 	},
     {
+		"gameIndex": "games/pokemoncrystal/index.html",
+		"gameName": "Pokemon: Crystal",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/pokemonemerald/index.html",
+		"gameName": "Pokemon: Emerald",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/pokemonfirered/index.html",
+		"gameName": "Pokemon: Fire Red",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/pokemonleafgreen/index.html",
+		"gameName": "Pokemon: Leaf Green",
+		"popular": false
+	},
+	{
 		"gameIndex": "games/pokemonpearl/index.html",
 		"gameName": "Pokemon: Pearl",
 		"popular": false
 	},
-	{
-		"gameIndex": "launcher.html",
-		"gameName": "Pokemon: Fire Red",
-		"popular": true,
-		"romName": "pokemonred"
+    {
+		"gameIndex": "games/pokemonruby/index.html",
+		"gameName": "Pokemon: Ruby",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/pokemonsapphire/index.html",
+		"gameName": "Pokemon: Sapphire",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/pokemonsilver/index.html",
+		"gameName": "Pokemon: Silver",
+		"popular": false
 	},
 	{
 		"gameIndex": "games/portalflash/index.html",
@@ -461,12 +539,27 @@
 		"gameName": "Rocket Soccer",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/rollyvortex/index.html",
 		"gameName": "Rolly Vortex",
 		"popular": false
 	},
-    {
+	{
+		"gameIndex": "games/run/index.html",
+		"gameName": "Run",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/run2/index.html",
+		"gameName": "Run 2",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/run3/index.html",
+		"gameName": "Run 3",
+		"popular": false
+	},
+	{
 		"gameIndex": "games/sandgame/index.html",
 		"gameName": "Sand Game",
 		"popular": false
@@ -501,7 +594,7 @@
 		"gameName": "Stickman Hook",
 		"popular": true
 	},
-    {
+	{
 		"gameIndex": "games/stormthehouse2/index.html",
 		"gameName": "Storm the House 2",
 		"popular": false
@@ -536,7 +629,7 @@
 		"gameName": "Super Smash Flash",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/tanukisunset/index.html",
 		"gameName": "Tanuki Sunset",
 		"popular": false
@@ -566,7 +659,7 @@
 		"gameName": "There Is No Game",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/townscaper/index.html",
 		"gameName": "Townscaper",
 		"popular": false
@@ -586,17 +679,17 @@
 		"gameName": "UNDERTALE: Yellow",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/vex4/index.html",
 		"gameName": "Vex 4",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/vex5/index.html",
 		"gameName": "Vex 5",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/vex6/index.html",
 		"gameName": "Vex 6",
 		"popular": false
@@ -611,7 +704,7 @@
 		"gameName": "World's Hardest Game",
 		"popular": true
 	},
-    {
+	{
 		"gameIndex": "games/worldshardestgame2/index.html",
 		"gameName": "World's Hardest Game 2",
 		"popular": false
