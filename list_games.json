@@ -17,7 +17,7 @@
     {
 		"gameIndex": "games/adventurecapitalist/index.html",
 		"gameName": "AdVenture Capitalist",
-		"popular": false
+		"popular": true
 	},
 	{
 		"gameIndex": "games/animalcrossingwildworld/index.html",
@@ -33,6 +33,11 @@
 		"gameIndex": "games/backrooms/index.html",
 		"gameName": "Backrooms",
 		"popular": false
+	},
+    {
+		"gameIndex": "games/balatro/index.html",
+		"gameName": "Balatro",
+		"popular": true
 	},
     {
 		"gameIndex": "games/basketballstars/index.html",
@@ -112,7 +117,7 @@
 	{
 		"gameIndex": "games/crossyroad/index.html",
 		"gameName": "Crossy Road",
-		"popular": true
+		"popular": false
 	},
 	{
 		"gameIndex": "games/cuttherope/index.html",
@@ -142,7 +147,7 @@
 	{
 		"gameIndex": "games/douchebagworkout2/index.html",
 		"gameName": "Douchebag Workout 2",
-		"popular": false
+		"popular": true
 	},
 	{
 		"gameIndex": "games/drawthehill/index.html",
@@ -162,7 +167,7 @@
 	{
 		"gameIndex": "games/ducklife3/index.html",
 		"gameName": "Duck Life 3",
-		"popular": true
+		"popular": false
 	},
 	{
 		"gameIndex": "games/ducklife4/index.html",
@@ -212,7 +217,7 @@
 	{
 		"gameIndex": "games/fnafworld/index.html",
 		"gameName": "FNAF World",
-		"popular": true
+		"popular": false
 	},
 	{
 		"gameIndex": "games/fridaynightfunkin/index.html",
@@ -302,12 +307,12 @@
 	{
 		"gameIndex": "games/motox3m/index.html",
 		"gameName": "MotoX3M",
-		"popular": false
+		"popular": true
 	},
 	{
 		"gameIndex": "games/motox3m2/index.html",
 		"gameName": "MotoX3M 2",
-		"popular": true
+		"popular": false
 	},
     {
 		"gameIndex": "games/monsterhighghoulspirit/index.html",
@@ -393,7 +398,7 @@
 	{
 		"gameIndex": "launcher.html",
 		"gameName": "Pokemon: Fire Red",
-		"popular": false,
+		"popular": true,
 		"romName": "pokemonred"
 	},
 	{
