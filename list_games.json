@@ -54,6 +54,11 @@
 		"gameName": "Bee Swarm Simulator",
 		"popular": false
 	},
+    {
+		"gameIndex": "games/bergentruck201x/index.html",
+		"gameName": "BERGENTRUCK 201X",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/bitlife/index.html",
 		"gameName": "BitLife",
@@ -297,6 +302,11 @@
 	{
 		"gameIndex": "games/interactivebuddy/index.html",
 		"gameName": "Interactive Buddy",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/ironlung/index.html",
+		"gameName": "Iron Lung",
 		"popular": false
 	},
 	{
@@ -564,9 +574,19 @@
 		"gameName": "Sand Game",
 		"popular": false
 	},
+    {
+		"gameIndex": "games/slimerancher/index.html",
+		"gameName": "Slime Rancher",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/slope/index.html",
 		"gameName": "Slope",
+		"popular": true
+	},
+    {
+		"gameIndex": "games/snake/index.html",
+		"gameName": "Snake",
 		"popular": true
 	},
 	{
@@ -637,6 +657,11 @@
 	{
 		"gameIndex": "games/templerun2/index.html",
 		"gameName": "Temple Run 2",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/territorialio/index.html",
+		"gameName": "Territorial.io",
 		"popular": false
 	},
 	{
