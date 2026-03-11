@@ -109,6 +109,11 @@
 		"gameName": "Celeste",
 		"popular": false
 	},
+    {
+		"gameIndex": "games/classof09/index.html",
+		"gameName": "Class of '09",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/cookieclicker/index.html",
 		"gameName": "Cookie Clicker",
@@ -572,6 +577,11 @@
 	{
 		"gameIndex": "games/sandgame/index.html",
 		"gameName": "Sand Game",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/slender/index.html",
+		"gameName": "Slender",
 		"popular": false
 	},
     {
