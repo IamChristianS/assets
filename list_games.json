@@ -54,7 +54,7 @@
 		"gameName": "Bee Swarm Simulator",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/bergentruck201x/index.html",
 		"gameName": "BERGENTRUCK 201X",
 		"popular": false
@@ -92,7 +92,13 @@
 	{
 		"gameIndex": "games/bloxorz/index.html",
 		"gameName": "Bloxorz",
-		"popular": false
+		"popular": false,
+		"description": "This is a test description for the game Bloxorz.",
+		"details": {
+			"Release Date": "August 22nd, 2007",
+			"Emulator": "Flash",
+			"Credits": "Damien Clarke"
+		}
 	},
 	{
 		"gameIndex": "games/bobtherobber2/index.html",
@@ -109,7 +115,7 @@
 		"gameName": "Celeste",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/classof09/index.html",
 		"gameName": "Class of '09",
 		"popular": false
@@ -309,7 +315,7 @@
 		"gameName": "Interactive Buddy",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/ironlung/index.html",
 		"gameName": "Iron Lung",
 		"popular": false
@@ -454,7 +460,7 @@
 		"gameName": "Pizza Tower",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/pokemoncrystal/index.html",
 		"gameName": "Pokemon: Crystal",
 		"popular": false
@@ -479,17 +485,17 @@
 		"gameName": "Pokemon: Pearl",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/pokemonruby/index.html",
 		"gameName": "Pokemon: Ruby",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/pokemonsapphire/index.html",
 		"gameName": "Pokemon: Sapphire",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/pokemonsilver/index.html",
 		"gameName": "Pokemon: Silver",
 		"popular": false
@@ -579,12 +585,12 @@
 		"gameName": "Sand Game",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/slender/index.html",
 		"gameName": "Slender",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/slimerancher/index.html",
 		"gameName": "Slime Rancher",
 		"popular": false
@@ -594,7 +600,7 @@
 		"gameName": "Slope",
 		"popular": true
 	},
-    {
+	{
 		"gameIndex": "games/snake/index.html",
 		"gameName": "Snake",
 		"popular": true
@@ -669,7 +675,7 @@
 		"gameName": "Temple Run 2",
 		"popular": false
 	},
-    {
+	{
 		"gameIndex": "games/territorialio/index.html",
 		"gameName": "Territorial.io",
 		"popular": false
