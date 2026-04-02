@@ -82,12 +82,18 @@
 	{
 		"gameIndex": "games/bloonstd3/index.html",
 		"gameName": "Bloons TD 3",
-		"popular": false
+		"popular": false,
+        "details": {
+			"Release Date": "September 2, 2008",
+			"Emulator": "Flash",
+			"Credits": "NinjaKiwi"
+		}
 	},
 	{
 		"gameIndex": "games/bloonstd5/index.html",
 		"gameName": "Bloons TD 5",
-		"popular": false
+		"popular": false,
+        "description": "This is a test description for the game Bloons TD 5."
 	},
 	{
 		"gameIndex": "games/bloxorz/index.html",
