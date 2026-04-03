@@ -23,10 +23,11 @@
         <embed src="" id="player" style="width: 100vw; height: 100vh;"></embed>
 
         <script>
-            let games = {};
+            const cdn = "../"; 
+            let games = [];
 
             async function loadGames() {
-                games = await fetch("list_games.json");
+                games = await fetch(cdn + "list_games.json");
                 games = games.json();
 
                 console.log(games)
