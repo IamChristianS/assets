@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="robots" content="noindex, nofollow" />
+
+        <title>Flash Player</title>
+
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+        <style>
+            html, body {
+                box-sizing: border-box;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+            }
+        </style>
+    </head>
+    <body>
+        <embed src="" id="player" style="width: 100vw; height: 100vh;"></embed>
+
+        <script>
+            let games = {};
+
+            async function loadGames() {
+                games = await fetch("list_games.json");
+                games = games.json();
+
+                console.log(games)
+            };
+
+            function clean(name) {
+                return name.replace(/[^a-zA-Z0-9]/g, "").toLowerCase();
+            }
+
+            function loadGame(games) {
+                const flashName = location.search.split("?")[1];
+                const player = document.getElementById("player");
+
+                games.forEach((game) => {
+                    if (clean(game.gameName) == flashName) {
+                        console.log("found game in list")
+                        player.src = "flash/" + flashName + ".swf";
+                    }
+                });
+            }
+
+            (function init() {
+                loadGames();
+                setTimeout(() => {
+                    loadGame(games);
+                }, 1000);
+            })();
+        </script>
+        <script src="ruffle/ruffle.js"></script>
+    </body>
+</html>

@@ -25,7 +25,7 @@
 		"popular": false
 	},
 	{
-		"gameIndex": "games/animatorvsanimation/index.html",
+		"gameIndex": "flash.html?animatorvsanimation",
 		"gameName": "Animator Vs Animation",
 		"popular": false
 	},
@@ -92,14 +92,12 @@
 	{
 		"gameIndex": "games/bloonstd5/index.html",
 		"gameName": "Bloons TD 5",
-		"popular": false,
-        "description": "This is a test description for the game Bloons TD 5."
+		"popular": false
 	},
 	{
 		"gameIndex": "games/bloxorz/index.html",
 		"gameName": "Bloxorz",
 		"popular": false,
-		"description": "This is a test description for the game Bloxorz.",
 		"details": {
 			"Release Date": "August 22nd, 2007",
 			"Emulator": "Flash",
