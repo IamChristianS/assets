@@ -48,8 +48,7 @@
 
             (async function init() {
                 // Fetch games
-                const cdn = "../"; 
-                const gamesURL = await fetch(cdn + "list_games.json");
+                const gamesURL = await fetch("list_games.json");
                 const games = await gamesURL.json();
 
                 // Create Ruffle player
