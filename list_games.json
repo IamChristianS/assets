@@ -25,7 +25,7 @@
 		"popular": false
 	},
 	{
-		"gameIndex": "games/animatorvsanimation/index.html",
+		"gameIndex": "flash.html?animatorvsanimation",
 		"gameName": "Animator Vs Animation",
 		"popular": false
 	},
@@ -70,17 +70,17 @@
 		"popular": true
 	},
 	{
-		"gameIndex": "games/bloonstd1/index.html",
+		"gameIndex": "flash.html?bloonstd1",
 		"gameName": "Bloons TD 1",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/bloonstd2/index.html",
+		"gameIndex": "flash.html?bloonstd2",
 		"gameName": "Bloons TD 2",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/bloonstd3/index.html",
+		"gameIndex": "flash.html?bloonstd3",
 		"gameName": "Bloons TD 3",
 		"popular": false,
         "details": {
@@ -90,12 +90,12 @@
 		}
 	},
 	{
-		"gameIndex": "games/bloonstd5/index.html",
+		"gameIndex": "flash.html?bloonstd5",
 		"gameName": "Bloons TD 5",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/bloxorz/index.html",
+		"gameIndex": "flash.html?bloxorz",
 		"gameName": "Bloxorz",
 		"popular": false,
 		"details": {
@@ -110,7 +110,7 @@
 		"popular": false
 	},
 	{
-		"gameIndex": "games/breakingthebank/index.html",
+		"gameIndex": "flash.html?breakingthebank",
 		"gameName": "Breaking the Bank",
 		"popular": false
 	},
@@ -175,12 +175,12 @@
 		"popular": true
 	},
 	{
-		"gameIndex": "games/douchebaglife/index.html",
+		"gameIndex": "flash.html?douchebaglife",
 		"gameName": "Douchebag Life",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/douchebagworkout2/index.html",
+		"gameIndex": "flash.html?douchebagworkout2",
 		"gameName": "Douchebag Workout 2",
 		"popular": true
 	},
@@ -190,17 +190,17 @@
 		"popular": false
 	},
 	{
-		"gameIndex": "games/ducklife1/index.html",
+		"gameIndex": "flash.html?ducklife1",
 		"gameName": "Duck Life 1",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/ducklife2/index.html",
+		"gameIndex": "flash.html?ducklife2",
 		"gameName": "Duck Life 2",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/ducklife3/index.html",
+		"gameIndex": "flash.html?ducklife3",
 		"gameName": "Duck Life 3",
 		"popular": false
 	},
@@ -215,7 +215,7 @@
 		"popular": false
 	},
 	{
-		"gameIndex": "games/ducklifetreasurehunt/index.html",
+		"gameIndex": "flash.html?ducklifetreasurehunt",
 		"gameName": "Duck Life: Treasure Hunt",
 		"popular": false
 	},
@@ -225,7 +225,7 @@
 		"popular": false
 	},
 	{
-		"gameIndex": "games/escapingtheprison/index.html",
+		"gameIndex": "flash.html?escapingtheprison",
 		"gameName": "Escaping the Prison",
 		"popular": false
 	},
@@ -235,7 +235,7 @@
 		"popular": false
 	},
 	{
-		"gameIndex": "games/fleeingthecomplex/index.html",
+		"gameIndex": "flash.html?fleeingthecomplex",
 		"gameName": "Fleeing the Complex",
 		"popular": false
 	},
@@ -290,7 +290,7 @@
 		"popular": false
 	},
 	{
-		"gameIndex": "games/happywheels/index.html",
+		"gameIndex": "flash.html?happywheels",
 		"gameName": "Happy Wheels",
 		"popular": false
 	},
@@ -305,7 +305,7 @@
 		"popular": false
 	},
 	{
-		"gameIndex": "games/infiltratingtheairship/index.html",
+		"gameIndex": "flash.html?infiltratingtheairship",
 		"gameName": "Infiltrating the Airship",
 		"popular": false
 	},
@@ -315,7 +315,7 @@
 		"popular": false
 	},
 	{
-		"gameIndex": "games/interactivebuddy/index.html",
+		"gameIndex": "flash.html?interactivebuddy",
 		"gameName": "Interactive Buddy",
 		"popular": false
 	},
@@ -330,12 +330,12 @@
 		"popular": true
 	},
 	{
-		"gameIndex": "games/learntofly1/index.html",
+		"gameIndex": "flash.html?learntofly1",
 		"gameName": "Learn to Fly 1",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/learntofly2/index.html",
+		"gameIndex": "flash.html?learntofly2",
 		"gameName": "Learn to Fly 2",
 		"popular": true
 	},
@@ -360,7 +360,7 @@
 		"popular": false
 	},
 	{
-		"gameIndex": "games/miniputt/index.html",
+		"gameIndex": "flash.html?miniputt",
 		"gameName": "Mini Putt",
 		"popular": false
 	},
@@ -390,62 +390,62 @@
 		"popular": false
 	},
 	{
-		"gameIndex": "games/pandemic2/index.html",
+		"gameIndex": "flash.html?pandemic2",
 		"gameName": "Pandemic 2",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/papasbakeria/index.html",
+		"gameIndex": "flash.html?papasbakeria",
 		"gameName": "Papa's Bakeria",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/papasburgeria/index.html",
+		"gameIndex": "flash.html?papasburgeria",
 		"gameName": "Papa's Burgeria",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/papascheeseria/index.html",
+		"gameIndex": "flash.html?papascheeseria",
 		"gameName": "Papa's Cheeseria",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/papasdonuteria/index.html",
+		"gameIndex": "flash.html?papasdonuteria",
 		"gameName": "Papa's Donuteria",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/papasfreezeria/index.html",
+		"gameIndex": "flash.html?papasfreezeria",
 		"gameName": "Papa's Freezeria",
 		"popular": true
 	},
 	{
-		"gameIndex": "games/papaspancakeria/index.html",
+		"gameIndex": "flash.html?papaspancakeria",
 		"gameName": "Papa's Pancakeria",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/papaspastaria/index.html",
+		"gameIndex": "flash.html?papaspastaria",
 		"gameName": "Papa's Pastaria",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/papaspizzeria/index.html",
+		"gameIndex": "flash.html?papaspizzeria",
 		"gameName": "Papa's Pizzeria",
 		"popular": true
 	},
 	{
-		"gameIndex": "games/papasscooperia/index.html",
+		"gameIndex": "flash.html?papasscooperia",
 		"gameName": "Papa's Scooperia",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/papassushiria/index.html",
+		"gameIndex": "flash.html?papassushiria",
 		"gameName": "Papa's Sushiria",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/papaswingeria/index.html",
+		"gameIndex": "flash.html?papaswingeria",
 		"gameName": "Papa's Wingeria",
 		"popular": false
 	},
@@ -505,7 +505,7 @@
 		"popular": false
 	},
 	{
-		"gameIndex": "games/portalflash/index.html",
+		"gameIndex": "flash.html?portalflash",
 		"gameName": "Portal: Flash",
 		"popular": false
 	},
@@ -525,37 +525,37 @@
 		"popular": false
 	},
 	{
-		"gameIndex": "games/riddleschool1/index.html",
+		"gameIndex": "flash.html?riddleschool1",
 		"gameName": "Riddle School 1",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/riddleschool2/index.html",
+		"gameIndex": "flash.html?riddleschool2",
 		"gameName": "Riddle School 2",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/riddleschool3/index.html",
+		"gameIndex": "flash.html?riddleschool3",
 		"gameName": "Riddle School 3",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/riddleschool4/index.html",
+		"gameIndex": "flash.html?riddleschool4",
 		"gameName": "Riddle School 4",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/riddleschool5/index.html",
+		"gameIndex": "flash.html?riddleschool5",
 		"gameName": "Riddle School 5",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/riddletransfer1/index.html",
+		"gameIndex": "flash.html?riddletransfer1",
 		"gameName": "Riddle Transfer 1",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/riddletransfer2/index.html",
+		"gameIndex": "flash.html?riddletransfer2",
 		"gameName": "Riddle Transfer 2",
 		"popular": false
 	},
@@ -570,17 +570,17 @@
 		"popular": false
 	},
 	{
-		"gameIndex": "games/run/index.html",
+		"gameIndex": "flash.html?run",
 		"gameName": "Run",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/run2/index.html",
+		"gameIndex": "flash.html?run2",
 		"gameName": "Run 2",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/run3/index.html",
+		"gameIndex": "flash.html?run3",
 		"gameName": "Run 3",
 		"popular": false
 	},
@@ -610,12 +610,12 @@
 		"popular": true
 	},
 	{
-		"gameIndex": "games/solitaire/index.html",
+		"gameIndex": "flash.html?solitaire",
 		"gameName": "Solitaire",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/sonicflash/index.html",
+		"gameIndex": "flash.html?sonicflash",
 		"gameName": "Sonic: Flash",
 		"popular": false
 	},
@@ -625,7 +625,7 @@
 		"popular": false
 	},
 	{
-		"gameIndex": "games/stealingthediamond/index.html",
+		"gameIndex": "flash.html?stealingthediamond",
 		"gameName": "Stealing the Diamond",
 		"popular": false
 	},
@@ -635,7 +635,7 @@
 		"popular": true
 	},
 	{
-		"gameIndex": "games/stormthehouse2/index.html",
+		"gameIndex": "flash.html?stormthehouse2",
 		"gameName": "Storm the House 2",
 		"popular": false
 	},
@@ -665,7 +665,7 @@
 		"popular": false
 	},
 	{
-		"gameIndex": "games/supersmashflash/index.html",
+		"gameIndex": "flash.html?supersmashflash",
 		"gameName": "Super Smash Flash",
 		"popular": false
 	},
@@ -685,17 +685,17 @@
 		"popular": false
 	},
 	{
-		"gameIndex": "games/tetris/index.html",
+		"gameIndex": "flash.html?tetris",
 		"gameName": "Tetris",
 		"popular": true
 	},
 	{
-		"gameIndex": "games/thebindingofisaac/index.html",
+		"gameIndex": "flash.html?thebindingofisaac",
 		"gameName": "The Binding of Isaac",
 		"popular": false
 	},
 	{
-		"gameIndex": "games/theimpossiblequiz/index.html",
+		"gameIndex": "flash.html?theimpossiblequiz",
 		"gameName": "The Impossible Quiz",
 		"popular": false
 	},
@@ -745,7 +745,7 @@
 		"popular": true
 	},
 	{
-		"gameIndex": "games/worldshardestgame/index.html",
+		"gameIndex": "flash.html?worldshardestgame",
 		"gameName": "World's Hardest Game",
 		"popular": true
 	},

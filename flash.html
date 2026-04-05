@@ -20,42 +20,49 @@
         </style>
     </head>
     <body>
-        <embed src="" id="player" style="width: 100vw; height: 100vh;"></embed>
+        <script>
+            window.RufflePlayer = window.RufflePlayer || {};
+            window.RufflePlayer.config = {
+                ...window.RufflePlayer.config, // Merge with any existing config, such as the user's extension config. Options you set below will have priority.
+
+                "letterbox": "on",
+                "showSwfDownload": true,
+            };
+        </script>
+
+        <script src="ruffle/ruffle.js"></script>
 
         <script>
-            const cdn = "../"; 
-            let games = [];
-
-            async function loadGames() {
-                games = await fetch(cdn + "list_games.json");
-                games = games.json();
-
-                console.log(games)
-            };
-
             function clean(name) {
                 return name.replace(/[^a-zA-Z0-9]/g, "").toLowerCase();
             }
 
-            function loadGame(games) {
+            function loadGame(games, player) {
                 const flashName = location.search.split("?")[1];
-                const player = document.getElementById("player");
+                const isGame = games.find((game) => clean(game.gameName) == flashName);
 
-                games.forEach((game) => {
-                    if (clean(game.gameName) == flashName) {
-                        console.log("found game in list")
-                        player.src = "flash/" + flashName + ".swf";
-                    }
-                });
+                if (isGame) {
+                    player.ruffle().load("flash/" + flashName + ".swf");
+                }
             }
 
-            (function init() {
-                loadGames();
-                setTimeout(() => {
-                    loadGame(games);
-                }, 1000);
+            (async function init() {
+                // Fetch games
+                const cdn = "../"; 
+                const gamesURL = await fetch(cdn + "list_games.json");
+                const games = await gamesURL.json();
+
+                // Create Ruffle player
+                let ruffle = window.RufflePlayer.newest();
+                let player = ruffle.createPlayer();
+
+                player.style.width = "100vw";
+                player.style.height = "100vh";
+                document.body.appendChild(player);
+
+                // LOAD THAT ISH !!!!!!
+                loadGame(games, player);
             })();
         </script>
-        <script src="ruffle/ruffle.js"></script>
     </body>
 </html>
