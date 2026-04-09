@@ -2,82 +2,152 @@
 	{
 		"gameIndex": "games/3dcity/index.html",
 		"gameName": "3D.CITY",
-		"popular": false
+		"popular": false,
+        "details": {
+			"Release Date": "June 6, 2014",
+			"Credits": "lo-th"
+		}
 	},
 	{
 		"gameIndex": "games/2048/index.html",
 		"gameName": "2048",
-		"popular": false
+		"popular": false,
+        "details": {
+			"Release Date": "March 5, 2014",
+			"Credits": "Gabriele Cirulli"
+		}
 	},
 	{
 		"gameIndex": "games/aceattorney/index.html",
 		"gameName": "Ace Attorney",
-		"popular": false
+		"popular": false,
+        "details": {
+			"Release Date": "October 12, 2001",
+			"Emulator": "Nintendo DS",
+			"Credits": "Capcom"
+		}
 	},
 	{
 		"gameIndex": "games/adventurecapitalist/index.html",
 		"gameName": "AdVenture Capitalist",
-		"popular": true
+		"popular": true,
+        "details": {
+			"Release Date": "May 30, 2014",
+			"Credits": "Hyper Hippo"
+		}
 	},
 	{
 		"gameIndex": "games/animalcrossingwildworld/index.html",
 		"gameName": "Animal Crossing: Wild World",
-		"popular": false
+		"popular": false,
+        "details": {
+			"Release Date": "November 23, 2005",
+			"Emulator": "Nintendo DS",
+			"Credits": "Nintendo"
+		}
 	},
 	{
 		"gameIndex": "flash.html?animatorvsanimation",
 		"gameName": "Animator Vs Animation",
-		"popular": false
+		"popular": false,
+        "details": {
+			"Release Date": "June 3, 2006",
+			"Emulator": "Flash",
+			"Credits": "Alan Becker"
+		}
 	},
 	{
 		"gameIndex": "games/backrooms/index.html",
 		"gameName": "Backrooms",
-		"popular": false
+		"popular": false,
+        "details": {
+			"Release Date": "June 1, 2019",
+			"Credits": "IEP Games"
+		}
 	},
 	{
 		"gameIndex": "games/badtimesimulator/index.html",
 		"gameName": "Bad Time Simulator",
-		"popular": true
+		"popular": true,
+        "details": {
+			"Release Date": "August 18, 2021",
+			"Credits": "jcw87"
+		}
 	},
 	{
 		"gameIndex": "games/balatro/index.html",
 		"gameName": "Balatro",
-		"popular": true
+		"popular": true,
+        "details": {
+			"Release Date": "February 20, 2024",
+			"Credits": "LocalThunk"
+		}
 	},
 	{
 		"gameIndex": "games/basketballstars/index.html",
 		"gameName": "Basketball Stars",
-		"popular": false
+		"popular": false,
+        "details": {
+			"Release Date": "March 16, 2016",
+			"Credits": "Miniclip"
+		}
 	},
 	{
 		"gameIndex": "games/beeswarmsimulator/index.html",
 		"gameName": "Bee Swarm Simulator",
-		"popular": false
+		"popular": false,
+        "details": {
+			"Release Date": "March 21, 2018",
+			"Credits": "Onett",
+			"Port": "Dddatt"
+		}
 	},
 	{
 		"gameIndex": "games/bergentruck201x/index.html",
 		"gameName": "BERGENTRUCK 201X",
-		"popular": false
+		"popular": false,
+        "details": {
+			"Release Date": "July 21, 2015",
+			"Credits": "Paledoptera"
+		}
 	},
 	{
 		"gameIndex": "games/bitlife/index.html",
 		"gameName": "BitLife",
-		"popular": true
+		"popular": true,
+        "details": {
+			"Release Date": "September 29, 2018",
+			"Credits": "CandyWriter"
+		}
 	},
 	{
 		"gameIndex": "games/blockblast/index.html",
 		"gameName": "Block Blast",
-		"popular": true
+		"popular": true,
+        "details": {
+			"Release Date": "September 23, 2022",
+			"Credits": "Hungry Studio"
+		}
 	},
 	{
 		"gameIndex": "flash.html?bloonstd1",
 		"gameName": "Bloons TD 1",
-		"popular": false
+		"popular": false,
+        "details": {
+			"Release Date": "August 16, 2001",
+			"Emulator": "Flash",
+			"Credits": "NinjaKiwi"
+		}
 	},
 	{
 		"gameIndex": "flash.html?bloonstd2",
 		"gameName": "Bloons TD 2",
-		"popular": false
+		"popular": false,
+        "details": {
+			"Release Date": "November 30, 2021",
+			"Emulator": "Flash",
+			"Credits": "NinjaKiwi"
+		}
 	},
 	{
 		"gameIndex": "flash.html?bloonstd3",
@@ -92,7 +162,12 @@
 	{
 		"gameIndex": "flash.html?bloonstd5",
 		"gameName": "Bloons TD 5",
-		"popular": false
+		"popular": false,
+        "details": {
+			"Release Date": "December 13, 2011",
+			"Emulator": "Flash",
+			"Credits": "NinjaKiwi"
+		}
 	},
 	{
 		"gameIndex": "flash.html?bloxorz",
@@ -107,42 +182,79 @@
 	{
 		"gameIndex": "games/bobtherobber2/index.html",
 		"gameName": "Bob the Robber 2",
-		"popular": false
+		"popular": false,
+		"details": {
+			"Release Date": "June 4, 2015",
+			"Credits": "Chillingo"
+		}
 	},
 	{
 		"gameIndex": "flash.html?breakingthebank",
 		"gameName": "Breaking the Bank",
-		"popular": false
+		"popular": false,
+		"details": {
+			"Release Date": "August 27, 2008",
+			"Emulator": "Flash",
+			"Credits": "PuffballsUnited"
+		}
 	},
 	{
 		"gameIndex": "games/celeste/index.html",
 		"gameName": "Celeste",
-		"popular": false
+		"popular": false,
+		"details": {
+			"Release Date": "January 25, 2018",
+			"Credits": "Maddy Thorson"
+		}
 	},
 	{
 		"gameIndex": "games/classof09/index.html",
 		"gameName": "Class of '09",
-		"popular": false
+		"popular": false,
+		"details": {
+			"Release Date": "June 10, 2021",
+			"Credits": "SBN3"
+		}
 	},
 	{
 		"gameIndex": "games/cookieclicker/index.html",
 		"gameName": "Cookie Clicker",
-		"popular": true
+		"popular": true,
+		"details": {
+			"Release Date": "August 8, 2013",
+			"Credits": "Orteil",
+			"Port": "ozh"
+		}
 	},
 	{
 		"gameIndex": "games/cookingmama/index.html",
 		"gameName": "Cooking Mama",
-		"popular": false
+		"popular": false,
+		"details": {
+			"Release Date": "March 23, 2006",
+			"Emulator": "Nintendo DS",
+			"Credits": "Office Create"
+		}
 	},
 	{
 		"gameIndex": "games/cookingmama2/index.html",
 		"gameName": "Cooking Mama 2",
-		"popular": false
+		"popular": false,
+		"details": {
+			"Release Date": "November 13, 2007",
+			"Emulator": "Nintendo DS",
+			"Credits": "Office Create"
+		}
 	},
 	{
 		"gameIndex": "games/cookingmama3/index.html",
 		"gameName": "Cooking Mama 3",
-		"popular": false
+		"popular": false,
+		"details": {
+			"Release Date": "October 20, 2009",
+			"Emulator": "Nintendo DS",
+			"Credits": "Office Create"
+		}
 	},
 	{
 		"gameIndex": "games/craftmine/index.html",
@@ -152,27 +264,48 @@
 	{
 		"gameIndex": "games/crossyroad/index.html",
 		"gameName": "Crossy Road",
-		"popular": false
+		"popular": false,
+		"details": {
+			"Release Date": "November 20, 2014",
+			"Credits": "Hipster Whale"
+		}
 	},
 	{
 		"gameIndex": "games/cuttherope/index.html",
 		"gameName": "Cut the Rope",
-		"popular": true
+		"popular": true,
+		"details": {
+			"Release Date": "October 4, 2010",
+			"Credits": "ZeptoLab"
+		}
 	},
 	{
 		"gameIndex": "games/cuttheropeholidaygift/index.html",
 		"gameName": "Cut the Rope: Holiday Gift",
-		"popular": false
+		"popular": false,
+		"details": {
+			"Release Date": "December 10th, 2010",
+			"Credits": "ZeptoLab"
+		}
 	},
 	{
 		"gameIndex": "games/cuttheropetimetravel/index.html",
 		"gameName": "Cut the Rope: Time Travel",
-		"popular": false
+		"popular": false,
+		"details": {
+			"Release Date": "April 17, 2013",
+			"Credits": "ZeptoLab"
+		}
 	},
 	{
 		"gameIndex": "games/deltarune/index.html",
 		"gameName": "DELTARUNE",
-		"popular": true
+		"popular": true,
+		"details": {
+			"Release Date": "July 21, 2017",
+			"Credits": "Toby Fox",
+			"Port": "Genizy"
+		}
 	},
 	{
 		"gameIndex": "flash.html?douchebaglife",
