@@ -216,6 +216,15 @@
 			"Credits": "SBN3"
 		}
 	},
+    {
+		"gameIndex": "games/classof09thereup/index.html",
+		"gameName": "Class of '09: The Re-Up",
+		"popular": false,
+		"details": {
+			"Release Date": "June 2, 2023",
+			"Credits": "SBN3"
+		}
+	},
 	{
 		"gameIndex": "games/cookieclicker/index.html",
 		"gameName": "Cookie Clicker",
