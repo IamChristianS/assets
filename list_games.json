@@ -208,8 +208,8 @@
 		}
 	},
 	{
-		"gameIndex": "games/classof09/index.html",
-		"gameName": "Class of '09",
+		"gameIndex": "games/classof09demo/index.html",
+		"gameName": "Class of '09: Demo",
 		"popular": false,
 		"details": {
 			"Release Date": "June 10, 2021",
