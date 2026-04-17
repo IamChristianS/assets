@@ -846,6 +846,11 @@
 		"gameName": "There Is No Game",
 		"popular": false
 	},
+    {
+		"gameIndex": "games/tomodachicollection/index.html",
+		"gameName": "Tomodachi Collection",
+		"popular": false
+	},
 	{
 		"gameIndex": "games/townscaper/index.html",
 		"gameName": "Townscaper",
